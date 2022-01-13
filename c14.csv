@@ -1,9 +1,9 @@
 ﻿Site,Structure_ID,Lab_ID,Material,Species,Individual_ID,C13_Delta,N15_Delta,C14_Age,C14_SD,calCurve,Period,Culture,Reference
-Galeria da Cisterna,Layer A,"OxA-27982	",Bone,Ovis sp.,F22-696,NA,NA,2129,27,intcal20,Iron Age,Iron Age,"Zilhão, 2021"
-Galeria da Cisterna,Underwater,"Beta-124199	",Wood,NA,NA,NA,NA,2270,40,intcal20,Iron Age,Iron Age,"Zilhão, 2021"
-Galeria da Cisterna,Split A1 LayerA,OxA-27983,Bone,Capra sp.,G19-419,NA,NA,3310,28,intcal20,Bronze Age,Bronze Age,"Zilhão, 2021"
-Galeria da Cisterna,Split A2 LayerA,OxA-27984,Bone,Capra sp.,G21-556,NA,NA,3354,28,intcal20,Bronze Age,Bronze Age,"Zilhão, 2021"
-Galeria da Cisterna,Split A1 LayerA,OxA-X-2515-17,Bone,Ovis aries,G18-129,NA,NA,3378,32,intcal20,Bronze Age,Bronze Age,"Zilhão, 2021"
+Galeria da Cisterna,Layer A,"OxA-27982	",Bone,Ovis sp.,F22-696,NA,NA,2129,27,intcal20,Iron Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Underwater,"Beta-124199	",Wood,NA,NA,NA,NA,2270,40,intcal20,Iron Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A1 LayerA,OxA-27983,Bone,Capra sp.,G19-419,NA,NA,3310,28,intcal20,Bronze Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A2 LayerA,OxA-27984,Bone,Capra sp.,G21-556,NA,NA,3354,28,intcal20,Bronze Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A1 LayerA,OxA-X-2515-17,Bone,Ovis aries,G18-129,NA,NA,3378,32,intcal20,Bronze Age,NA,"Zilhão, 2021"
 Galeria da Cisterna,Split A2 LayerA,OxA-28856,Bone,Homo sapiens,G19-785,NA,NA,3774,28,intcal20,Chalcolithic,Bell Beaker,"Zilhão, 2021"
 Galeria da Cisterna,Split A4 LayerA,OxA-28858,Bone,Homo sapiens,G21-1765,NA,NA,3819,29,intcal20,Chalcolithic,Bell Beaker,"Zilhão, 2021"
 Galeria da Cisterna,Split A1 LayerA,OxA-28857,Bone,Homo sapiens,G18-187,NA,NA,3836,29,intcal20,Chalcolithic,Bell Beaker,"Zilhão, 2021"
@@ -19,8 +19,8 @@ Galeria da Cisterna,Split A2 LayerA,"S-EVA-27412	",Bone,Homo sapiens,"G21-631	",
 Galeria da Cisterna,Split A4 Layer A,"S-EVA-27411	",Bone,Homo sapiens,"G21-1764	",NA,NA,6380,21,intcal20,Neolithic,Cardial,"Zilhão, 2021"
 Galeria da Cisterna,Split A4 Layer A,"OxA-9288	",Bone,Cervus elaphus,"G21-2278	",NA,NA,6445,45,intcal20,Neolithic,Cardial,"Zilhão, 2021"
 Galeria da Cisterna,Layer A,"OxA-9287	",Bone,Cervus elaphus,"F19-52	",NA,NA,6445,45,intcal20,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NM,"OxA-35145	",Bone,Homo sapiens,M18sc36,NA,NA,4770,32,intcal20,Neolithic,Middle Neolithic,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Eb-sup Phase NM,"TO-349	",Bone,Homo sapiens,"O14-78	",NA,NA,4940,70,intcal20,Neolithic,Middle Neolithic,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NM,"OxA-35145	",Bone,Homo sapiens,M18sc36,NA,NA,4770,32,intcal20,Neolithic,NA,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Eb-sup Phase NM,"TO-349	",Bone,Homo sapiens,"O14-78	",NA,NA,4940,70,intcal20,Neolithic,NA,"Zilhão, 2021"
 Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NA1,"TO-350	",Bone,Homo sapiens,"Q11-88	",NA,NA,5810,70,intcal20,Neolithic,Epicardial,"Zilhão, 2021"
 Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1036	",Bone,Bos taurus,"Q13-62	",NA,NA,5870,80,intcal20,Neolithic,Epicardial,"Zilhão, 2021"
 Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1037	",Bone,Bos taurus,"Q13-66	",NA,NA,5970,120,intcal20,Neolithic,Epicardial,"Zilhão, 2021"
@@ -140,7 +140,7 @@ Cerro  de  la  Encina,Tomb 21,Beta-230005,Bone,Homo sapiens,NA,NA,NA,3280,40,int
 Cerro  de  la  Encina,Tomb 21,Beta-230006,Bone,Homo sapiens,NA,NA,NA,3330,40,intcal20,Bronze Age,El Argar,Jiménez et al. 2008
 Cerro  de  la  Encina,Tomb 22,Beta-230004,Bone,Homo sapiens,NA,NA,NA,3350,40,intcal20,Bronze Age,El Argar,Jiménez et al. 2008
 Bugalhos,NA,Beta-120049,Linen,NA,NA,-26.1,NA,3450,40,intcal20,Bronze Age,SW Bronze Age,Matoloto et al. 2013
-Horta do Albardão,NA,Sac-2252,Bone,Homo sapiens,1,-21.6,NA,3080,60,intcal20,Bronze Age,SW Bronze Age,Soares et al. 2009
+Horta do Albardão 3,NA,Sac-2252,Bone,Homo sapiens,1,-21.6,NA,3080,60,intcal20,Bronze Age,SW Bronze Age,Soares et al. 2009
 Casarão da Mesquita 3,NA,Sac-2248,Bone,Homo sapiens,NA,-19.7,NA,2990,60,intcal20,Bronze Age,SW Bronze Age,Soares et al. 2009
 Casarão da Mesquita 3,NA,Sac-2305,Bone,NA_fauna,NA,-20.4,NA,2900,70,intcal20,Bronze Age,SW Bronze Age,Soares et al. 2009
 Monte da Velha 1,MV1,Beta-194027,Bone,Homo sapiens,NA,-19.4,NA,3900,40,intcal20,Chalcolithic,Bell Beaker w/Megalithism,Soares et al. 2009
@@ -184,6 +184,58 @@ Dolmen de la Paloma,Chamber,Beta-150154,Bone,Homo sapiens,NA,NA,NA,4070,70,intca
 Puerto de los Huertos,Soil interior funerary chamber,CNA-342,Charcoal,NA,NA,NA,NA,4050,50,intcal20,Chalcolithic,Megalithism,Mataloto et al. 2013
 Puerto de los Huertos,Soil interior structure,CNA-344,Charcoal,NA,NA,NA,NA,3940,45,intcal20,Chalcolithic,Megalithism,Mataloto et al. 2013
 Puerto de los Huertos,Soil filling,CNA-341,Charcoal,NA,NA,NA,NA,3680,50,intcal20,Chalcolithic,Megalithism,Mataloto et al. 2013
+Escoural,QD7/C.2,ICEN-611,Fauna,NA,NA,NA,NA,4010,90,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Escoural,QD7/C.1,ICEN-610,Fauna,NA,NA,NA,NA,3940,90,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C2,Beta-261319,Cork,Quercus suber,NA,NA,NA,3990,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C5,Beta-261320,Charcoal,Quercus sp.,NA,NA,NA,3770,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C5,Sac-2287,Charcoal,Quercus suber,NA,NA,NA,3730,190,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Palheirão Furado,Occupation level,ICEN-731,Shell,Patella sp.,NA,NA,NA,4200,60,marine20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 99",Beta-285098,Tooth,Sus sp.,NA,NA,NA,4050,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 58",Beta-285096,Tooth,Bos taurus,NA,NA,NA,4050,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 38",Beta-285095,Tooth,Fauna,NA,NA,NA,3980,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 4, UE 90",Beta- 289264,Bone,Homo sapiens,NA,NA,NA,3940,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 4, UE 90",Beta- 285097,Tooth,Cervus elaphus,NA,NA,NA,3980,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector Q, Pit 4, UE 74",Beta-2850,Tooth,Homo sapiens,NA,NA,NA,3990,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Moinho Valadares,UE 83-top,Oxa-12715,Charcoal,NA,NA,NA,NA,3726,29,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 1037,Sac- 1933,Fauna,NA,NA,NA,NA,3790,60,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 1039,Sac- 1900,Fauna,NA,NA,NA,NA,3720,80,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 327,Oxa-11982,Bone,Homo sapiens,NA,NA,NA,3664,29,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Monte Novo dos Albardeiros,Structure 2,ICEN-530,Fauna,NA,NA,NA,NA,4060,80,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Monte Novo dos Albardeiros,Structure 1,ICEN-529,Fauna,NA,NA,NA,NA,3760,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+São Pedro,Phase 4/5,KIA-33865,Charcoal,Quercus ilex,NA,NA,NA,4043,35,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Porto Torrão,UE 2056,Sac-2027,Fauna,NA,NA,NA,NA,3810,50,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Porto Torrão,UE 2020,Sac-2028,Fauna,NA,NA,NA,NA,3700,60,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cortes 2,"Hypogeum, Est. 2, UE 1507",Sac-2575,Bone,Homo sapiens,NA,NA,NA,3810,50,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cortes 2,"Hypogeum, Est. 2, UE 1511",Sac-2574,Bone,Homo sapiens,NA,NA,NA,3700,60,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Palácio Quemado,2nd occupation phase,NA,NA,NA,NA,NA,NA,3570,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+San Blás,SB/E9/38,NA,NA,NA,NA,NA,NA,4030,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+San Blás,SB/J24/15,NA,NA,NA,NA,NA,NA,3820,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,CSIC-1479,NA,NA,NA,NA,NA,4059,35,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22810,NA,NA,NA,NA,NA,4010,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22807,Charcoal,Quercus ilex,NA,NA,NA,3995,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22806,Charcoal,Quercus ilex,NA,NA,NA,3985,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22811,NA,NA,NA,NA,NA,3945,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,I-18307,Charcoal,Quercus ilex,NA,NA,NA,3980,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18305,Charcoal,Quercus ilex,NA,NA,NA,3880,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18309,Charcoal,Quercus ilex,NA,NA,NA,3870,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18308,Charcoal,Quercus ilex,NA,NA,NA,3850,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,Ua-22809,Charcoal,Quercus ilex,NA,NA,NA,3840,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18306,Charcoal,Quercus ilex,NA,NA,NA,3830,100,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 4,CSIC-1481,Charcoal,Quercus ilex,NA,NA,NA,3568,51,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"Space 9, Phase 1",Ua-23886,Charcoal,Quercus ilex,NA,NA,NA,4035,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Phase 1",Ua-23885,Charcoal,Quercus ilex,NA,NA,NA,4005,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-19,NA,NA,NA,NA,NA,NA,4000,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,Door 1 - fortification,Ua-23883,Charcoal,Quercus ilex,NA,NA,NA,3995,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-22,NA,NA,NA,NA,NA,NA,3995,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-28,NA,NA,NA,NA,NA,NA,3935,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 2, Phase 2",Beta-172050,Charcoal,Quercus ilex,NA,NA,NA,3990,70,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 2, Phase 2",Beta-172051,Charcoal,Quercus ilex,NA,NA,NA,3980,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Phase 2",Ua-20481,Charcoal,Quercus ilex,NA,NA,NA,3935,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-4,NA,NA,NA,NA,NA,NA,3910,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-2,NA,NA,NA,NA,NA,NA,3890,45,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Fase 2",Ua-23884,Charcoal,Quercus ilex,NA,NA,NA,3880,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+La Pijotilla,E4-Interme,Beta -121146,NA,NA,NA,NA,NA,4010,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
+La Pijotilla,E4-Abandoned ,Beta-121145,NA,NA,NA,NA,NA,4010,40,intcal20,Chalcolithic,NA,Mataloto et al. 2013
 Herdade do Pomar,NA,ICEN-87,Bone,Homo sapiens,NA,NA,NA,3510,45,intcal20,Bronze Age,SW Bronze Age,Mataloto et al. 2013
 Herdade do Pomar,NA,ICEN-85,Bone,Homo sapiens,NA,NA,NA,3320,140,intcal20,Bronze Age,SW Bronze Age,Mataloto et al. 2013
 Pessegueiro,Tomb 16,ICEN-867,Bone,Homo sapiens,Burial 1,NA,NA,3270,45,intcal20,Bronze Age,SW Bronze Age,Mataloto et al. 2013
@@ -326,3 +378,39 @@ Pedras Grandes,NA,Beta-234136,Bone,Homo sapiens,MG638.0005.2,19.6,8.6,4530,40,in
 Pedras Grandes,NA,OxA-35898,Bone,Homo sapiens,MG638.0005.3+0006.16,19.5,8.4,4796,30,intcal20,Neolithic,Megalithism ,Silva et al. 2021
 Pedras Grandes,NA,OxA-35899,Bone,Homo sapiens,MG638.0007.1-2,19.2,8.6,4671,29,intcal20,Neolithic,Megalithism ,Silva et al. 2021
 Pedras Grandes,NA,OxA-36001,Bone,Homo sapiens,MG638.0005.1,19.1,9.1,4812,28,intcal20,Neolithic,Megalithism ,Silva et al. 2021
+Anta da Bola de Cera,NA,ICEN-66,Bone,NA,NA,NA,NA,4360,50,intcal20,Chalcolithic,Megalithism ,"Soares e Cabral, 1993"
+Sala n° 1,Level 6,ICEN-444,Bone,NA,NA,NA,NA,4490,100,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 5,ICEN-445,Bone,NA,NA,NA,NA,4490,80,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 4,ICEN-447,Bone,NA,NA,NA,NA,4490,100,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 3,ICEN-448,Bone,NA,NA,NA,NA,4140,110,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+S. Brás 1,Context with metallurgy,ICEN-44,Charcoal,NA,NA,NA,NA,4410,140,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+S. Brás 1,Context with metallurgy,ICEN-43,Charcoal,NA,NA,NA,NA,4480,60,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-236,Charcoal,NA,NA,NA,NA,4550,150,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-115,Charcoal,NA,NA,NA,NA,4340,35,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-144,Charcoal,NA,NA,NA,NA,4390,50,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-172,Charcoal,NA,NA,NA,NA,4540,90,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-116,Charcoal,NA,NA,NA,NA,4400,80,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-234,Charcoal,NA,NA,NA,NA,4280,100,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-113,Charcoal,NA,NA,NA,NA,4220,120,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-117,Charcoal,NA,NA,NA,NA,4180,30,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 2, with metallurgy",ICEN-131,Charcoal,NA,NA,NA,NA,4310,110,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-131,Charcoal,NA,NA,NA,NA,4390,150,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-90,Charcoal,NA,NA,NA,NA,4310,170,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-91,Charcoal,NA,NA,NA,NA,4100,140,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-75,Charcoal,NA,NA,NA,NA,3990,130,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-77,Charcoal,NA,NA,NA,NA,3960,180,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-76,Burned seeds,NA,NA,NA,NA,3920,130,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3230,Burned seeds,NA,NA,NA,NA,4400,140,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3229,Burned seeds,NA,NA,NA,NA,4250,110,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-86,Charcoal,NA,NA,NA,NA,3910,120,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-85,Charcoal,NA,NA,NA,NA,3890,130,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-55",ICEN-56,Bone,NA,NA,NA,NA,4300,80,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-56",ICEN-55,Bone,NA,NA,NA,NA,4290,50,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 1, ceramic, same sample as ICEN-6-",ICEN-61,Bone,NA,NA,NA,NA,4230,60,intcal20,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 1, ceramic, same sample as ICEN-61",ICEN-60,Bone,NA,NA,NA,NA,4200,70,intcal20,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-609,Bone,NA,NA,NA,NA,4260,90,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-608,Bone,NA,NA,NA,NA,4120,100,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-611,Bone,NA,NA,NA,NA,4010,90,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-610,Bone,NA,NA,NA,NA,3940,90,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"
+ETAR (Vila Nova de Milfontes),NA,ICEN-726,Shell,Monodonta sp.,NA,NA,NA,4120,60,marine20,Chalcolithic,NA,"Soares e Cabral, 1993"
+Tholos de A-dos-Tassos,NA,Sa-199,Charcoal,NA,NA,NA,NA,3320,200,intcal20,Chalcolithic,NA,"Soares e Cabral, 1993"

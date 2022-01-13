@@ -45,7 +45,7 @@ caldatesBC<- caldatesBP%>%
 
 # Subset the information for the map
 map_data<- c14%>%
-  select(Site,Culture)%>%
+  select(Site,Period)%>%
   cbind(caldatesBC%>%
           select(MaxTwoSigmaBC,MinTwoSigmaBC,MedianBC))%>%
   left_join(site_coord%>%
@@ -54,13 +54,13 @@ map_data<- c14%>%
 
 # Subset the information for the map
 table_data<- c14%>%
-  select(Site,Culture,Sample = Lab_ID, Material, Species, Individual_ID,Reference)%>%
+  select(Site,Period,Sample = Lab_ID, Material, Species, Individual_ID,Reference)%>%
   mutate(unCal.BP = paste(c14$C14_Age,"±",c14$C14_SD))%>%
   cbind(caldatesBC%>%
           select(MaxTwoSigmaBC,MinTwoSigmaBC,MedianBC))
 
 # object glossary 
-cultures <- levels(as.factor(map_data$Culture))
+periods <- levels(as.factor(map_data$Period))
 sites <- levels(as.factor(map_data$Site))
 maxbc <- max(map_data$MinTwoSigmaBC)
 minbc <- min(map_data$MaxTwoSigmaBC)
@@ -83,7 +83,7 @@ ui <- fluidPage(
       sidebarLayout(
         sidebarPanel(width = 3,
         
-          checkboxGroupInput("culture", "Archaeological culture", cultures,selected = cultures),
+          checkboxGroupInput("period", "Period", periods,selected = periods),
       
           selectInput("hulls", "Convex hulls", c("True", "False"),selected = "False"),
           
@@ -181,7 +181,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   
   selected_map <- reactive(map_data %>% 
-                         filter(Culture %in% input$culture,
+                         filter(Period %in% input$period,
                                 MaxTwoSigmaBC >= input$mindate & MinTwoSigmaBC <= input$maxdate))
   
   # Page 1 
@@ -190,7 +190,7 @@ server <- function(input, output, session) {
     if(input$hulls == "False"){
       ggplot()+
         geom_sf(data = iberia_map,fill = "gray90",color= "gray50")+
-        geom_point(data=selected_map(),aes(x= Longitude, y= Latitude,color= Culture),
+        geom_point(data=selected_map(),aes(x= Longitude, y= Latitude,color= Period),
                    size=3,alpha=0.8)+
         scale_color_viridis_d()+
         annotation_scale()+
@@ -201,15 +201,15 @@ server <- function(input, output, session) {
     }else{
       
       hulls <- selected_map() %>%
-        group_by(Culture) %>%
-        distinct(Site,Culture,.keep_all = TRUE)%>%
+        group_by(Period) %>%
+        distinct(Site,Period,.keep_all = TRUE)%>%
         slice(chull(Longitude, Latitude))
       
       hulls<- data.frame(hulls)
       
       ggplot()+
         geom_sf(data = iberia_map,fill = "gray90",color= "gray50")+
-        geom_polygon(data=hulls,aes(x=Longitude,y=Latitude, color= Culture,fill= Culture),alpha = 0.5)+
+        geom_polygon(data=hulls,aes(x=Longitude,y=Latitude, color= Period,fill= Period),alpha = 0.5)+
         scale_fill_viridis_d()+
         scale_color_viridis_d()+
         annotation_scale()+
@@ -233,7 +233,7 @@ server <- function(input, output, session) {
   )
     ## Histogram
     p2<- function(){
-      ggplot(selected_map(),aes(x=MedianBC,fill=Culture))+
+      ggplot(selected_map(),aes(x=MedianBC,fill=Period))+
         geom_density(alpha=0.5)+
         scale_fill_viridis_d()+
         theme_classic()+
@@ -254,12 +254,12 @@ server <- function(input, output, session) {
   
   #Page 2 - Summary
   selected_table <- reactive(table_data %>% 
-                               filter(Culture %in% input$culture,
+                               filter(Period %in% input$period,
                                       MaxTwoSigmaBC >= input$mindate & MinTwoSigmaBC <= input$maxdate))
   
   summary_table <- function(){
     selected_table()%>%
-      group_by(Culture)%>%
+      group_by(Period)%>%
       summarise(N = n(),From_cal.BC = min(MaxTwoSigmaBC),To_cal.BC = max(MinTwoSigmaBC))%>%
       mutate(Percent = (N/sum(N))*100)%>%
       relocate(Percent, .after = N)
@@ -280,7 +280,7 @@ server <- function(input, output, session) {
   )
   
   p3 <- function(){
-    ggplot(selected_table(),aes(x=MedianBC, y = reorder(Culture,MedianBC), fill=Culture))+
+    ggplot(selected_table(),aes(x=MedianBC, y = reorder(Period,MedianBC), fill=Period))+
       geom_boxplot(alpha = 0.5)+
       scale_fill_viridis_d()+
       theme_classic()+
