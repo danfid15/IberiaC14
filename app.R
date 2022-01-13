@@ -12,7 +12,8 @@ library(shinythemes)
 # Load datasets
 c14 <- read_csv("c14.csv")
 site_coord <- read_csv("site_coord.csv")
-references <- read.csv("references.csv")
+references <- read.csv("references.csv",encoding = "UTF-8")
+colnames(references) <- c("Reference","MLA_reference")
 
 # Calibrate the C14 dates
 caldatesBP<- summary(calibrate(x= c14$C14_Age, errors = c14$C14_SD,calCurves = c14$calCurve))
@@ -133,23 +134,47 @@ ui <- fluidPage(
     ),# End Page 4
     
     # Page 5 - About
-    tabPanel("About",
-             fluidPage(
-               column(width = 6,
-                      tags$h1("The project"),
-                      "This project is designed to help researchers search and filter 
-                      for radiocarbon dates related to Prehistoric Iberia, taking into account some cultural, 
-                      geographic, and chronological aspects.",tags$br(),
-                      "The database will be periodically updated by the author. If you have any questions,
-                      please refer to the github page where the all the code and resources are available.",
-                      tags$h1("The author"),
-                      "Daniel Fidalgo",tags$br(),
-                      tags$a(href="https://orcid.org/0000-0001-7175-1686","ORCID"),tags$br(),
-                      tags$a(href="https://www.researchgate.net/profile/Daniel-Fidalgo","ResearchGate"),tags$br(),
-                      tags$a(href="www.linkedin.com/in/daniel-fidalgo-48367b1a3","Linkedin"),tags$br(),
-                      tags$a(href="https://github.com/danfid15","GitHub"))
+    navbarMenu("More", icon = icon("info-circle"),
+               tabPanel("About",
+                        fluidPage(
+                          column(width = 6,
+                                 tags$h1("The project"),
+                                  "This project is designed to help researchers search and filter 
+                                  for radiocarbon dates related to Prehistoric Iberia, taking into account some cultural, 
+                                  geographic, and chronological aspects.",tags$br(),
+                                  "The database will be periodically updated by the author. If you have any questions,
+                                  please refer to the github page where the all the code and resources are available.",
+                                  tags$h1("The author"),
+                                  "Daniel Fidalgo",tags$br(),
+                                  tags$a(href="https://orcid.org/0000-0001-7175-1686","ORCID"),tags$br(),
+                                  tags$a(href="https://www.researchgate.net/profile/Daniel-Fidalgo","ResearchGate"),tags$br(),
+                                  tags$a(href="www.linkedin.com/in/daniel-fidalgo-48367b1a3","Linkedin"),tags$br(),
+                                  tags$a(href="https://github.com/danfid15","GitHub"))
              )
+            ),# End Tab Panel 1
+            tabPanel("MIT License",
+                     fluidPage(
+                       column(width = 12,
+                              tags$h1("MIT"),
+                              "Copyright (c) 2022 Daniel Fidalgo", tags$br(),
+                              "Permission is hereby granted, free of charge, to any person obtaining a copy,
+                              of this software and associated documentation files (the Software), to deal
+                              in the Software without restriction, including without limitation the rights
+                              to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                              copies of the Software, and to permit persons to whom the Software is
+                              furnished to do so, subject to the following conditions:",tags$br(),
+                              "The above copyright notice and this permission notice shall be included in all
+                              copies or substantial portions of the Software.",tags$br(),
+                              "THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                              IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                              FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                              AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                              LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                              OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                              SOFTWARE.)")
+                       )
             )
+    ) # End Navigation Menu
   ) # End Tabset Panel
 ) # End fluid Page
 
@@ -255,7 +280,7 @@ server <- function(input, output, session) {
   )
   
   p3 <- function(){
-    ggplot(selected_table(),aes(x=MedianBC, y = Culture, fill=Culture))+
+    ggplot(selected_table(),aes(x=MedianBC, y = reorder(Culture,MedianBC), fill=Culture))+
       geom_boxplot(alpha = 0.5)+
       scale_fill_viridis_d()+
       theme_classic()+
@@ -296,7 +321,7 @@ server <- function(input, output, session) {
       select(Reference)%>%
       distinct(Reference,.keep_all = TRUE)%>%
       left_join(references%>%
-                  select(Reference, Full_reference),by = "Reference")
+                  select(Reference, MLA_reference),by = "Reference")
   }
   
   output$biblio<- 
