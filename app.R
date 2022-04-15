@@ -16,7 +16,8 @@ references <- read.csv("references.csv",encoding = "UTF-8")
 colnames(references) <- c("Reference","MLA_reference")
 
 # Calibrate the C14 dates
-caldatesBP<- summary(calibrate(x= c14$C14_Age, errors = c14$C14_SD,calCurves = c14$calCurve))
+caldatesBP<- summary(calibrate(x= c14$C14_Age, errors = c14$C14_SD,
+                               calCurves = c14$calCurve))
 
 caldates_temp<- caldatesBP%>%
   select(TwoSigma_BP_1,TwoSigma_BP_2,TwoSigma_BP_3,TwoSigma_BP_4,TwoSigma_BP_5,TwoSigma_BP_6)%>%
@@ -57,7 +58,8 @@ table_data<- c14%>%
   select(Site,Period,Sample = Lab_ID, Material, Species, Individual_ID,Reference)%>%
   mutate(unCal.BP = paste(c14$C14_Age,"±",c14$C14_SD))%>%
   cbind(caldatesBC%>%
-          select(MaxTwoSigmaBC,MinTwoSigmaBC,MedianBC))
+          select(MaxTwoSigmaBC,MinTwoSigmaBC,MedianBC))%>%
+  drop_na(Period)
 
 # object glossary 
 periods <- levels(as.factor(map_data$Period))
@@ -113,7 +115,14 @@ ui <- fluidPage(
                       downloadButton("downloadsummary","Download")),
                column(width = 8,
                       plotOutput("boxplot"),
-                      downloadButton("downloadboxplot", "Download")))
+                      downloadButton("downloadboxplot", "Download"))),
+             fluidRow(
+               column(width = 4,
+                      tableOutput("material"),
+                      downloadButton("downloadmaterial","Download")),
+               column(width = 8,
+                      plotOutput("barplot"),
+                      downloadButton("downloadbarplot", "Download")))
             
     ), # End Page 2
     
@@ -196,7 +205,9 @@ server <- function(input, output, session) {
         annotation_scale()+
         annotation_north_arrow(style = north_arrow_nautical,location="tr")+
         theme_void()+
-        theme(legend.title = element_text(face = "bold"))
+        theme(legend.title = element_text(face = "bold"))+
+        labs(caption = paste("Total number of dates:", nrow(selected_map()),
+                             " Total number of sites:",nlevels(as.factor(selected_map()[,1]))))
       
     }else{
       
@@ -216,7 +227,9 @@ server <- function(input, output, session) {
         annotation_north_arrow(style = north_arrow_nautical,location="tr")+
         theme_void()+
         theme(legend.title = element_text(face = "bold"))+
-        scale_alpha(guide = 'none')
+        scale_alpha(guide = 'none')+
+        labs(caption = paste("Total number of dates:", nrow(selected_map()),
+                             " Total number of sites:",nlevels(as.factor(selected_map()[,1]))))
     }
   }
   
@@ -257,12 +270,14 @@ server <- function(input, output, session) {
                                filter(Period %in% input$period,
                                       MaxTwoSigmaBC >= input$mindate & MinTwoSigmaBC <= input$maxdate))
   
+  #2.1 - Summary table
   summary_table <- function(){
     selected_table()%>%
       group_by(Period)%>%
       summarise(N = n(),From_cal.BC = min(MaxTwoSigmaBC),To_cal.BC = max(MinTwoSigmaBC))%>%
       mutate(Percent = (N/sum(N))*100)%>%
-      relocate(Percent, .after = N)
+      relocate(Percent, .after = N)%>%
+      ungroup()
   }
   
   output$summary<- 
@@ -284,7 +299,8 @@ server <- function(input, output, session) {
       geom_boxplot(alpha = 0.5)+
       scale_fill_viridis_d()+
       theme_classic()+
-      theme(legend.title = element_text(face = "bold"))
+      theme(legend.title = element_text(face = "bold"))+
+      labs(x= "Medial cal.BC",y = "Period")
   }
   
   output$boxplot <- renderPlot({
@@ -298,6 +314,54 @@ server <- function(input, output, session) {
              width = 10, height = 8)
     }
   )
+  
+  #Material summary
+  material_table <- function(){
+    selected_table()%>%
+      group_by(Material)%>%
+      summarise(N = n())%>%
+      mutate(Percent = (N/sum(N))*100)
+  }
+  
+  output$material<- 
+    renderTable(
+      material_table()
+    )
+  
+  output$downloadmaterial <- downloadHandler(
+    filename = function() {
+      paste0("material", ".csv")
+    },
+    content = function(file) {
+      write.csv(material_table(), file)
+    }
+  )
+  
+  p4<- function(){
+    ggplot(selected_table()%>%
+             group_by(Material,Period)%>%
+             summarise(N = n()),aes(x = N, y= reorder(Material,N),fill=Period))+
+      geom_col(alpha = 0.5)+
+      scale_fill_viridis_d()+
+      theme_classic()+
+      theme(legend.title = element_text(face = "bold"))+
+      labs(x= "Count", y="Dated material")
+  }
+  
+  output$barplot <- renderPlot({
+    p4()
+  }, res = 96)
+  
+  output$downloadbarplot <- downloadHandler(
+    filename = "barplot.png",
+    content = function(file) {
+      ggsave(file, plot = p4(), device = "png", bg = "white",dpi = 300,
+             width = 10, height = 8)
+    }
+  )
+    
+  
+  # End output - Page 2
   
   #Page 3 - Table
   output$table <- renderDataTable(
