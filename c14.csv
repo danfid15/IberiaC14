@@ -152,8 +152,7 @@ Centirã 2,UE12,Sac-2796,Bone,Homo sapiens,Ent1,NA,NA,3710,45,intcal20,NA,Chalco
 Centirã 2,UE12,Beta-331980,Bone,Homo sapiens,Ent1,NA,NA,3680,30,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
 Centirã 2,UE7,Sac-2788,Bone,Homo sapiens,Ent1,NA,NA,3810,80,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
 Alcalar 7,C32,Beta-180980,Charcoal,NA,Hearth 4,NA,NA,3860,40,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-"Anta de N. Sra. da Conceição/
-Estremoz 7",NA,Wk-17089,Bone,Homo sapiens,NA,NA,NA,3758,36,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Anta de N. Sra. Da Conceição / Estremoz 7,NA,Wk-17089,Bone,Homo sapiens,NA,NA,NA,3758,36,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
 Miguens 3,UE35,Wk-18507,Charcoal,Olea,NA,NA,NA,3934,33,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
 Miguens 3,UE55,Wk-18508,Charcoal,Olea,NA,NA,NA,3902,38,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
 Porto das Carretas (Phase II),C.2B Tower M13, Beta-196681,Charcoal,Pinus pinea,Hearth C,NA,NA,3920,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
@@ -468,16 +467,16 @@ Buraca Grande,Layer 7c,Sac-1461,Charcoal,NA,NA,NA,NA,6850,210,intcal20,NA,Mesoli
 Buraca Grande,Layer 7c,Sac-1459,Shell,NA,NA,NA,NA,6940,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
 Bocas,Layer 2,ICEN-899,Shell,NA,NA,NA,NA,7490,110,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
 Forno da Telha,Layer 2,ICEN-417,Shell,NA,NA,NA,NA,7360,90,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton III,TO-360,Bone,Homo sapiens,NA,NA,NA,6990,110,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton A,TO-354,Bone,Homo sapiens,NA,NA,NA,6970,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton 42,TO-359a,Bone,Homo sapiens,NA,NA,NA,6960,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton D,TO-355,Bone,Homo sapiens,NA,NA,NA,6780,80,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton N,TO-356,Bone,Homo sapiens,NA,NA,NA,6360,80,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Moita do Sebastião,Skeleton 22,TO-131,Bone,Homo sapiens,NA,NA,NA,7240,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Moita do Sebastião,Skeleton 29,TO-133,Bone,Homo sapiens,NA,NA,NA,7200,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Moita do Sebastião,Skeleton 24,TO-132,Bone,Homo sapiens,NA,NA,NA,7180,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Moita do Sebastião,Skeleton 41,TO-134,Bone,Homo sapiens,NA,NA,NA,7160,80,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Moita do Sebastião,Skeleton CT,TO-135,Bone,Homo sapiens,NA,NA,NA,6810,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço da Arruda,Skeleton III,TO-360,Bone,Homo sapiens,NA,-17.7,11.2,6990,110,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton A,TO-354,Bone,Homo sapiens,NA,-19,12.2,6970,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton 42,TO-359,Bone,Homo sapiens,NA,-17.2,11.8,6960,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton D,TO-355,Bone,Homo sapiens,NA,-18.9,10.3,6780,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton N,TO-356,Bone,Homo sapiens,NA,-15.3,12.5,6360,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 22,TO-131,Bone,Homo sapiens,NA,-16.1,12.2,7240,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 29,TO-133,Bone,Homo sapiens,NA,-16.9,10.4,7200,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 24,TO-132,Bone,Homo sapiens,NA,-16.8,11.9,7180,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 41,TO-134,Bone,Homo sapiens,NA,-16.7,11.2,7160,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton CT,TO-135,Bone,Homo sapiens,NA,-15.3,13.4,6810,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
 Arapouco,Middle lvel,Q-2492,Shell,NA,NA,NA,NA,7420,65,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
 Cabeço do Rebolador,NA,ICEN-277,Shell,NA,NA,NA,NA,7140,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
 Cabeço do Rebolador,NA,ICEN-278,Shell,NA,NA,NA,NA,7100,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
@@ -495,7 +494,7 @@ Vale de Romeiras,Layer 2,ICEN-146,Shell,NA,NA,NA,NA,7350,60,marine20,NA,Mesolith
 Vale Pincel,"Levels 2/3, hearths",ICEN-724,Charcoal,NA,NA,NA,NA,6700,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
 Vale Pincel,"Levels 2/3, hearths",ICEN-723,Charcoal,NA,NA,NA,NA,6540,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
 Samouqueira 1,Level 3,ICE-729,Shell,NA,NA,NA,NA,7520,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Samouqueira 1,Level 2,TO-130,Bone,Homo sapiens,NA,NA,NA,6370,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Samouqueira 1,Level 2,TO-130,Bone,Homo sapiens,H2,-15.3,16.5,6370,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
 Vidigal,Level 3,Ly-4695,Bone,NA_fauna,NA,NA,NA,6640,90,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
 Vidigal,Level 2,GX-14557,Bone,NA_fauna,NA,NA,NA,6030,180,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
 Medo Tojeiro,Level 4?,BM-2275R,Shell,NA,NA,NA,NA,6820,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
@@ -513,3 +512,23 @@ Senhora das Lapas,Layer C,ICEN-805,Bone,Homo sapiens,NA,NA,NA,6100,70,intcal20,N
 Pena d'Água,Layer Eb (base),ICEN-1146,Charcoal,NA,NA,NA,NA,6390,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
 Picoto,Surface,ICEN-736,Bone,Homo sapiens,NA,NA,NA,6000,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
 Casa da Moura,Level 1a,TO-953,Bone,Homo sapiens,NA,NA,NA,5990,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabeço do Porto Marinho,Neolithic hearth,SMU-2477,Charcoal,NA,NA,NA,NA,5710,155,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Pedreira de Salemas,NA,ICEN-351,Bone,Homo sapiens,NA,NA,NA,6020,120,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+São Pedro de Canaferrim,"EU-4, 69-73cm",ICEN-1151,Charcoal,NA,NA,NA,NA,6020,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+São Pedro de Canaferrim,"EU-4, 46-63cm",ICEN-1152,Charcoal,NA,NA,NA,NA,6070,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabeço do Pez,Upper level,Q-2499,Bone,NA_fauna,NA,NA,NA,5535,130,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabranosa,Neolithic hearth,Sac-1321,Shell,NA,NA,NA,NA,6930,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Padrão,Neolithic hearth,ICEN-873,Shell,NA,NA,NA,NA,6920,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Padrão,Neolithic hearth,ICEN-645,Shell,NA,NA,NA,NA,6800,50,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Cabeço da Amoreira,CAM-01-01,TO-10225,Bone,Homo sapiens,NA,-19.3,8.2,6550,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Amoreira,7,Beta-127450,Bone,Homo sapiens,NA,-16.5,NA,6850,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Amoreira,CAM-00-01,TO-11819-R,Bone,Homo sapiens,NA,-16.3,NA,7300,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,CA-00-01,TO-10217,Bone,Homo sapiens,NA,-18.1,10.5,6620,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,CA-00-02,TO-10216,Bone,Homo sapiens,NA,-17.9,10.6,7040,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,6,Beta-127451,Bone,Homo sapiens,NA,-19,NA,7550,100,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cova da Onça,NA,Beta-127448,Bone,Homo sapiens,NA,-17.2,NA,7140,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,16,Beta-127449,Bone,Homo sapiens,NA,-16.8,NA,7120,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço das Amoreiras,Skeleton 5,Beta-125110,Bone,Homo sapiens,5,-20.8,NA,7230,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Aranpouco,Skeleton 2A,Sac-1560,Bone,Homo sapiens,2A,-16.9,NA,7200,130,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Quinta do Almaraz,"Quad. U 45/3, PI.11",ICEN-926,Bone,Homo sapiens,NA,-20.4,NA,2660,50,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.11",ICEN-914,Shell,Venerupis decussata,NA,0.15,NA,3020,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
