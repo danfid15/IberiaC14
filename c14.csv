@@ -1,534 +1,545 @@
-﻿Site,Structure_ID,Lab_ID,Material,Species,Individual_ID,C13_Delta,N15_Delta,C14_Age,C14_SD,calCurve,Reservoir_region,Period,Culture,Reference
-Galeria da Cisterna,Layer A,"OxA-27982	",Bone,Ovis sp.,F22-696,NA,NA,2129,27,intcal20,NA,Iron Age,NA,"Zilhão, 2021"
-Galeria da Cisterna,Underwater,"Beta-124199	",Wood,NA,NA,NA,NA,2270,40,intcal20,NA,Iron Age,NA,"Zilhão, 2021"
-Galeria da Cisterna,Split A1 LayerA,OxA-27983,Bone,Capra sp.,G19-419,NA,NA,3310,28,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
-Galeria da Cisterna,Split A2 LayerA,OxA-27984,Bone,Capra sp.,G21-556,NA,NA,3354,28,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
-Galeria da Cisterna,Split A1 LayerA,OxA-X-2515-17,Bone,Ovis aries,G18-129,NA,NA,3378,32,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
-Galeria da Cisterna,Split A2 LayerA,OxA-28856,Bone,Homo sapiens,G19-785,NA,NA,3774,28,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Split A4 LayerA,OxA-28858,Bone,Homo sapiens,G21-1765,NA,NA,3819,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Split A1 LayerA,OxA-28857,Bone,Homo sapiens,G18-187,NA,NA,3836,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Layer A,OxA-28859,Bone,Homo sapiens,F23-90,NA,NA,3847,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Split A4 LayerA,S-EVA-25635,Bone,Homo sapiens,G21-1762,NA,NA,3865,17,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Split A3 LayerA,S-EVA-27410,Bone,Homo sapiens,G21-1079,NA,NA,3872,19,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
-Galeria da Cisterna,Split A3 Layer A,"Wk-38575	",Bone,Homo sapiens,"G21-1080	",NA,NA,6253,30,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split A4 Layer A,"S-EVA-25634	",Bone,Cervus elaphus,"G21-1871	",NA,NA,6261,20,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split B2 Layer A,"Wk-38574	",Bone,Homo sapiens,"G20-1030	",NA,NA,6270,30,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Layer A,"OxA-28855	",Bone,Homo sapiens,"F19-385	",NA,NA,6280,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split A3 Layer A,"Wk-38576	",Bone,Homo sapiens,"G21-1081	",NA,NA,6312,31,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split A2 LayerA,"S-EVA-27412	",Bone,Homo sapiens,"G21-631	",NA,NA,6319,22,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split A4 Layer A,"S-EVA-27411	",Bone,Homo sapiens,"G21-1764	",NA,NA,6380,21,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Split A4 Layer A,"OxA-9288	",Bone,Cervus elaphus,"G21-2278	",NA,NA,6445,45,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Galeria da Cisterna,Layer A,"OxA-9287	",Bone,Cervus elaphus,"F19-52	",NA,NA,6445,45,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NM,"OxA-35145	",Bone,Homo sapiens,M18sc36,NA,NA,4770,32,intcal20,NA,Neolithic,NA,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Eb-sup Phase NM,"TO-349	",Bone,Homo sapiens,"O14-78	",NA,NA,4940,70,intcal20,NA,Neolithic,NA,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NA1,"TO-350	",Bone,Homo sapiens,"Q11-88	",NA,NA,5810,70,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1036	",Bone,Bos taurus,"Q13-62	",NA,NA,5870,80,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1037	",Bone,Bos taurus,"Q13-66	",NA,NA,5970,120,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E5 Layer Eb-indif Phase NA2-A,"OxA-1033	",Bone,Homo sapiens,"O12-50	",NA,NA,6130,90,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E5 Layer Eb-indif Phase NA2,"OxA-1034	",Bone,Ovis aries,"Q13-99	",NA,NA,6230,80,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E6 Layer Eb-indif Phase NA2-A,"UBA-40087	",Bone,Homo sapiens,"Q12-186	",NA,NA,6237,35,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E2 Layer Eb inf Phase NA2-A,"OxA-35146	",Bone,Homo sapiens,"N15-68	",NA,NA,6242,35,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E7 Layer Eb indif Phase NA2-A,"Wk-38579	",Bone,Homo sapiens,"P12-151	",NA,NA,6260,33,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E1 Layer Ea Phase NA2,"OxA-1035	",Bone,Ovis aries,"P14-44	",NA,NA,6330,80,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E Layer Eb-indf Phase NA2-B,"Wk-38577	",Bone,Homo sapiens,P11sc174,NA,NA,6345,31,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split F11 Layer Fb Phase NA2-B,"OxA-37728	",Bone,Homo sapiens,"P12-251	",NA,NA,6350,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split ABC1 Layer ABC-D Phase NA2-B,"OxA-35147	",Bone,Homo sapiens,"O9sc97	",NA,NA,6368,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split F3 Layer Fb Phase NA2-B,"OxA-37729	",Bone,Homo sapiens,"O12-57	",NA,NA,6374,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E2 Layer Eb-indif Phase NA2-C,"UBA-40088	",Bone,Homo sapiens,"R11-8	",NA,NA,6415,36,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E2 Layer Eb-indif Phase NA2-C,"Wk-38580	",Bone,Homo sapiens,R11-7,NA,NA,6444,33,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E6 Layer Eb-indif Phase NA2-C,"Wk-38578	",Bone,Homo sapiens,"Q12-181	",NA,NA,6452,29,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
-Gruta do Caldeirão,Split E4 Layer Eb-indif Phase NA2. Natural component of the deposit unrelated,"ICEN-296	",Charcoal,NA,"P14-84	",NA,NA,6870,210,intcal20,NA,NA,NA,"Zilhão, 2021"
-Torre Velha 3,Tomb 2550-2551,Sac-2466,Bone,Bos taurus,2016,-21.8,NA,3250,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 1662-1664,Beta-262199,Bone,Ovis aries,1601,-20.5,NA,3300,40,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 2119-2120,Sac-2465,Bone,Bos taurus,2008,-22,NA,3300,50,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 1489-1490,Sac-2489,Bone,Bos taurus,1511,-22.3,NA,3300,45,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 2498-2497,Sac-2480,Bone,Bos taurus,2489,-19.8,NA,3340,50,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 1949-1950,Sac-2490,Bone,Bos taurus,1801,-21.5,NA,3410,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Torre Velha 3,Tomb 1267-1792,Sac-2825,Bone,Homo sapiens,1714,-20.3,NA,3280,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Torre Velha 3,Tomb 2356-2357,Sac-2827,Bone,Homo sapiens,2051,-20.3,NA,3340,80,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Torre Velha 3,Tomb 2417-2418,Sac-2826,Bone,Homo sapiens,2241,-20.5,NA,3170,90,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Torre Velha 3,Tomb 1212,Sac-2882,Bone,Homo sapiens,969,-21,NA,3330,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Torre Velha 3,Tomb 2392,"Sac-2883	",Bone,Homo sapiens,1991,-20.6,NA,3290,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Belmeque,Tomb Belm1,ICEN-142,Bone,Homo sapiens,NA,-18.6,NA,3230,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
-Monte da Cabida 3,Tomb 9,Sac-2631,Bone,Homo sapiens,904,-18.9,NA,3290,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte da Cabida 3,Tomb 41/931,Sac-2888,Bone,Homo sapiens,NA,-19.4,NA,3490,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Monte da Cabida 3,Tomb 64/960,Sac-2437,Bone,Homo sapiens,NA,-20.5,NA,3330,45,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
-Monte da Cabida 3,Tomb 62,Sac-2436,Bone,Homo sapiens,Burial 1,-20,NA,2880,50,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Monte da Cabida 3,UE 986,Sac-2315,Charcoal,NA,Pit 62,-22.9,NA,2920,70,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Monte da Cabida 3,UE 986,Sac-2322,Fauna,NA_fauna,Pit 62,-21.3,NA,2860,40,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Castellón Alto ,Tomb 7,Ua-37879,Bone,Homo sapiens,4098-1,NA,NA,3490,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 7,Ua-37880,Bone,Homo sapiens,4098-2,NA,NA,3455,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 75,Ua-37881,Bone,Homo sapiens,35441,NA,NA,3510,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 75,Ua-37882,Bone,Homo sapiens,35442,NA,NA,3630,50,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 85,Ua-37883,Bone,Homo sapiens,4475,NA,NA,3665,45,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 85,Ua-37884,Bone,Homo sapiens,4520,NA,NA,3570,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 91,Ua-37885,Bone,Homo sapiens,351122,NA,NA,3475,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 91,Ua-37886,Bone,Homo sapiens,351123,NA,NA,3445,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37887,Bone,Homo sapiens,NA,NA,NA,3425,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37888,Bone,Homo sapiens,NA,NA,NA,3840,60,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37889,Bone,Homo sapiens,NA,NA,NA,3435,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 110,Ua-37890,Bone,Homo sapiens,351191,NA,NA,3565,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,Tomb 110,Ua-37891,Bone,Homo sapiens,351192,NA,NA,3530,45,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37892,Bone,Homo sapiens,NA,NA,NA,3640,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37893,Bone,Homo sapiens,NA,NA,NA,3520,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37894,Bone,Homo sapiens,NA,NA,NA,3495,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Castellón Alto ,NA,Ua-37895,Bone,Homo sapiens,NA,NA,NA,3480,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39397,Bone,Homo sapiens,NA,NA,NA,3286,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 4,Ua-39398,Bone,Homo sapiens,1,NA,NA,3466,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 4,Ua-39399,Bone,Homo sapiens,2,NA,NA,3437,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39400,Bone,Homo sapiens,NA,NA,NA,3479,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,6,Ua-39401,Bone,Homo sapiens,1,NA,NA,3488,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,6,Ua-39402,Bone,Homo sapiens,2,NA,NA,3500,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39403,Bone,Homo sapiens,NA,NA,NA,3426,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39404,Bone,Homo sapiens,NA,NA,NA,3394,36,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39405,Bone,Homo sapiens,NA,NA,NA,3468,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39406,Bone,Homo sapiens,NA,NA,NA,3564,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39407,Bone,Homo sapiens,NA,NA,NA,3709,41,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39408,Bone,Homo sapiens,NA,NA,NA,3216,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39409,Bone,Homo sapiens,NA,NA,NA,3187,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 21,Ua-39410,Bone,Homo sapiens,A1,NA,NA,3586,36,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 21,Ua-39411,Bone,Homo sapiens,B1,NA,NA,3391,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 22,Ua-39412,Bone,Homo sapiens,A1,NA,NA,3525,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 22,Ua-39413,Bone,Homo sapiens,B1,NA,NA,3433,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39414,Bone,Homo sapiens,NA,NA,NA,3487,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39415,Bone,Homo sapiens,NA,NA,NA,3429,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39416,Bone,Homo sapiens,NA,NA,NA,3323,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 29,Ua-39417,Bone,Homo sapiens,1,NA,NA,3401,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 29,Ua-39418,Bone,Homo sapiens,2,NA,NA,3326,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 30,Ua-39419,Bone,Homo sapiens,A1,NA,NA,3802,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 30,Ua-39420,Bone,Homo sapiens,B1,NA,NA,3780,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,Tomb 30,Ua-39421,Bone,Homo sapiens,C1,NA,NA,3785,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39422,Bone,Homo sapiens,NA,NA,NA,3406,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro de la Virgen,NA,Ua-39423,Bone,Homo sapiens,NA,NA,NA,3395,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39462,Bone,Homo sapiens,NA,NA,NA,3275,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 2,Ua-39463,Bone,Homo sapiens,P39011,NA,NA,3505,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 2,Ua-39464,Bone,Homo sapiens,P39012,NA,NA,3508,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39465,Bone,Homo sapiens,NA,NA,NA,3242,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 4,Ua-39466,Bone,Homo sapiens,P12089,NA,NA,3281,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 4,Ua-39467,Bone,Homo sapiens,P12092,NA,NA,3375,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39468,Bone,Homo sapiens,NA,NA,NA,3469,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 6,Ua-39469,Bone,Homo sapiens,P12105a,NA,NA,3132,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 6,Ua-39470,Bone,Homo sapiens,P12105b,NA,NA,3378,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39471,Bone,Homo sapiens,NA,NA,NA,3418,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39472,Bone,Homo sapiens,NA,NA,NA,3316,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 9,Ua-39473,Bone,Homo sapiens,P11085a,NA,NA,3413,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 9,Ua-39474,Bone,Homo sapiens,P11085b,NA,NA,3414,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39475,Bone,Homo sapiens,NA,NA,NA,3499,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39476,Bone,Homo sapiens,NA,NA,NA,3568,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39477,Bone,Homo sapiens,NA,NA,NA,3377,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39478,Bone,Homo sapiens,NA,NA,NA,3548,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39479,Bone,Homo sapiens,NA,NA,NA,3472,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 19,Ua-39480,Bone,Homo sapiens,P3697,NA,NA,3589,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 19,Ua-39481,Bone,Homo sapiens,P3698,NA,NA,3511,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39482,Bone,Homo sapiens,NA,NA,NA,3467,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39483,Bone,Homo sapiens,NA,NA,NA,3411,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39484,Bone,Homo sapiens,NA,NA,NA,3355,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39485,Bone,Homo sapiens,NA,NA,NA,3365,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39486,Bone,Homo sapiens,NA,NA,NA,3521,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39487,Bone,Homo sapiens,NA,NA,NA,3534,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 29,Ua-39488,Bone,Homo sapiens,P45207,NA,NA,3413,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 29,Ua-39489,Bone,Homo sapiens,P45208,NA,NA,3288,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39490,Bone,Homo sapiens,NA,NA,NA,3339,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 31,Ua-39491,Bone,Homo sapiens,P45520,NA,NA,3254,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,Tomb 31,Ua-39492,Bone,Homo sapiens,P45521,NA,NA,3287,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39493,Bone,Homo sapiens,NA,NA,NA,3396,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cuesta del Negro,NA,Ua-39494,Bone,Homo sapiens,NA,NA,NA,3276,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
-Cerro  de  la  Encina,Tomb 13,Beta-230003,Bone,Homo sapiens,NA,NA,NA,3590,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Cerro  de  la  Encina,Tomb 14,Beta-230009,Bone,Homo sapiens,NA,NA,NA,3420,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Cerro  de  la  Encina,Tomb 15,Beta-230010,Bone,Homo sapiens,NA,NA,NA,3140,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Cerro  de  la  Encina,Tomb 21,Beta-230005,Bone,Homo sapiens,NA,NA,NA,3280,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Cerro  de  la  Encina,Tomb 21,Beta-230006,Bone,Homo sapiens,NA,NA,NA,3330,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Cerro  de  la  Encina,Tomb 22,Beta-230004,Bone,Homo sapiens,NA,NA,NA,3350,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
-Bugalhos,NA,Beta-120049,Linen,NA,NA,-26.1,NA,3450,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Horta do Albardão 3,NA,Sac-2252,Bone,Homo sapiens,1,-21.6,NA,3080,60,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Casarão da Mesquita 3,NA,Sac-2248,Bone,Homo sapiens,NA,-19.7,NA,2990,60,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Casarão da Mesquita 3,NA,Sac-2305,Bone,NA_fauna,NA,-20.4,NA,2900,70,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
-Monte da Velha 1,MV1,Beta-194027,Bone,Homo sapiens,NA,-19.4,NA,3900,40,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Soares et al. 2009
-Centirã 2,UE12,Sac-2791,Bone,Homo sapiens,Oss1,NA,NA,3940,50,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE13,Sac-2790,Bone,Homo sapiens,Ent2,NA,NA,3900,45,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE14,Sac-2792,Bone,Homo sapiens,NA,NA,NA,3790,110,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE14,Sac-2782,Bone,Homo sapiens,Ent4,NA,NA,3760,70,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE12,Sac-2796,Bone,Homo sapiens,Ent1,NA,NA,3710,45,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE12,Beta-331980,Bone,Homo sapiens,Ent1,NA,NA,3680,30,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Centirã 2,UE7,Sac-2788,Bone,Homo sapiens,Ent1,NA,NA,3810,80,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Alcalar 7,C32,Beta-180980,Charcoal,NA,Hearth 4,NA,NA,3860,40,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Anta de N. Sra. Da Conceição / Estremoz 7,NA,Wk-17089,Bone,Homo sapiens,NA,NA,NA,3758,36,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
-Miguens 3,UE35,Wk-18507,Charcoal,Olea,NA,NA,NA,3934,33,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-Miguens 3,UE55,Wk-18508,Charcoal,Olea,NA,NA,NA,3902,38,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-Porto das Carretas (Phase II),C.2B Tower M13, Beta-196681,Charcoal,Pinus pinea,Hearth C,NA,NA,3920,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-Porto das Carretas (Phase II),C.2B Tower M13,Beta-204062,Charcoal,Pinus pinea,Hearth B,NA,NA,3860,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-Porto das Carretas (Phase II),C.2B Tower M13,Beta-193743,Charcoal,Olea,Hearth A,NA,NA,3840,60,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-San Blás,SB/K7/37,NA,Charcoal,NA,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-San Blás,SB/H22/29,NA,Charcoal,NA,NA,NA,NA,3950,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
-Anta 2 dos Cebolinhos,L.12-36a,Beta-176899,Bone,Homo sapiens,NA,NA,NA,3900,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta 2 dos Cebolinhos,L.12-36b,Beta-177471,Bone,Homo sapiens,NA,NA,NA,3840,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta 3 de Santa Margarida,Cm-3,Beta-166418,Bone,Homo sapiens,NA,NA,NA,3780,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta 3 de Santa Margarida,Cm-2,Beta-166417,Bone,Homo sapiens,NA,NA,NA,3770,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta 3 de Santa Margarida,Cm-3,Beta-166420,Bone,Canis sp.,NA,NA,NA,3720,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta 3 de Santa Margarida,Cm-4,Beta-166421,Bone,Homo sapiens,NA,NA,NA,3730,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Anta Grande Zambujeiro,C.2B experior pit,Beta-243693,Charcoal,NA,NA,NA,NA,3910,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-São Paulo 2,NA,UBAR-629,Bone,Homo sapiens,NA,NA,NA,3960,190,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-São Paulo 2,NA,UBAR-630,Bone,Homo sapiens,NA,NA,NA,3870,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Vale Rodrigo 2,"Stage 4, end of corridor",Ua-10831,Charcoal,NA,NA,NA,NA,3905,75,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Pedra Escorregadia,NA,ICEN-844,Bone,Homo sapiens,NA,NA,NA,4060,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Pedra Escorregadia,NA,ICEN-1028,Bone,Homo sapiens,NA,NA,NA,3800,100,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Tholos La Pijotilla 1,NA,BM-1603,Charcoal,NA,NA,NA,NA,3860,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Huerta Montero,NA,GrN-16954,Bone,Homo sapiens,NA,NA,NA,3720,100,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-La Venta,Chamber,Beta-150158,Charcoal,NA,NA,NA,NA,3820,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Los Gabrieles 4,US 2,Beta-185650,Charcoal,NA,NA,NA,NA,3700,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Los Gabrieles 4,US 3,Beta-185648,Charcoal,NA,NA,NA,NA,3850,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Los Gabrieles 4,US 4,Beta-185649,Charcoal,NA,NA,NA,NA,3920,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-El Pozuelo Dolmen 6,Corredor,I-19080,Charcoal,NA,NA,NA,NA,3580,120,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Dolmen de la Paloma,Chamber,Beta-150154,Bone,Homo sapiens,NA,NA,NA,4070,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Puerto de los Huertos,Soil interior funerary chamber,CNA-342,Charcoal,NA,NA,NA,NA,4050,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Puerto de los Huertos,Soil interior structure,CNA-344,Charcoal,NA,NA,NA,NA,3940,45,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Puerto de los Huertos,Soil filling,CNA-341,Charcoal,NA,NA,NA,NA,3680,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
-Escoural,QD7/C.2,ICEN-611,Fauna,NA,NA,NA,NA,4010,90,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Escoural,QD7/C.1,ICEN-610,Fauna,NA,NA,NA,NA,3940,90,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Horta do Albardão 3,Pit C2,Beta-261319,Cork,Quercus suber,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Horta do Albardão 3,Pit C5,Beta-261320,Charcoal,Quercus sp.,NA,NA,NA,3770,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Horta do Albardão 3,Pit C5,Sac-2287,Charcoal,Quercus suber,NA,NA,NA,3730,190,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Palheirão Furado,Occupation level,ICEN-731,Shell,Patella sp.,NA,NA,NA,4200,60,marine20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector 1, Pit 3, UE 99",Beta-285098,Tooth,Sus sp.,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector 1, Pit 3, UE 58",Beta-285096,Tooth,Bos taurus,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector 1, Pit 3, UE 38",Beta-285095,Tooth,Fauna,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector 1, Pit 4, UE 90",Beta- 289264,Bone,Homo sapiens,NA,NA,NA,3940,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector 1, Pit 4, UE 90",Beta- 285097,Tooth,Cervus elaphus,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Perdigões,"Sector Q, Pit 4, UE 74",Beta-2850,Tooth,Homo sapiens,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Moinho Valadares,UE 83-top,Oxa-12715,Charcoal,NA,NA,NA,NA,3726,29,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Mercador,UE 1037,Sac- 1933,Fauna,NA,NA,NA,NA,3790,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Mercador,UE 1039,Sac- 1900,Fauna,NA,NA,NA,NA,3720,80,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Mercador,UE 327,Oxa-11982,Bone,Homo sapiens,NA,NA,NA,3664,29,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Monte Novo dos Albardeiros,Structure 2,ICEN-530,Fauna,NA,NA,NA,NA,4060,80,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Monte Novo dos Albardeiros,Structure 1,ICEN-529,Fauna,NA,NA,NA,NA,3760,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-São Pedro,Phase 4/5,KIA-33865,Charcoal,Quercus ilex,NA,NA,NA,4043,35,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Porto Torrão,UE 2056,Sac-2027,Fauna,NA,NA,NA,NA,3810,50,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Porto Torrão,UE 2020,Sac-2028,Fauna,NA,NA,NA,NA,3700,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cortes 2,"Hypogeum, Est. 2, UE 1507",Sac-2575,Bone,Homo sapiens,NA,NA,NA,3810,50,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cortes 2,"Hypogeum, Est. 2, UE 1511",Sac-2574,Bone,Homo sapiens,NA,NA,NA,3700,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Palácio Quemado,2nd occupation phase,NA,NA,NA,NA,NA,NA,3570,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-San Blás,SB/E9/38,NA,NA,NA,NA,NA,NA,4030,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-San Blás,SB/J24/15,NA,NA,NA,NA,NA,NA,3820,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,CSIC-1479,NA,NA,NA,NA,NA,4059,35,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,Ua-22810,NA,NA,NA,NA,NA,4010,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,Ua-22807,Charcoal,Quercus ilex,NA,NA,NA,3995,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,Ua-22806,Charcoal,Quercus ilex,NA,NA,NA,3985,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,Ua-22811,NA,NA,NA,NA,NA,3945,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 2,I-18307,Charcoal,Quercus ilex,NA,NA,NA,3980,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 3,I-18305,Charcoal,Quercus ilex,NA,NA,NA,3880,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 3,I-18309,Charcoal,Quercus ilex,NA,NA,NA,3870,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 3,I-18308,Charcoal,Quercus ilex,NA,NA,NA,3850,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 3,Ua-22809,Charcoal,Quercus ilex,NA,NA,NA,3840,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 3,I-18306,Charcoal,Quercus ilex,NA,NA,NA,3830,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Cabezo Juré,Phase 4,CSIC-1481,Charcoal,Quercus ilex,NA,NA,NA,3568,51,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"Space 9, Phase 1",Ua-23886,Charcoal,Quercus ilex,NA,NA,NA,4035,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"House 1, Phase 1",Ua-23885,Charcoal,Quercus ilex,NA,NA,NA,4005,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,US-19,NA,NA,NA,NA,NA,NA,4000,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,Door 1 - fortification,Ua-23883,Charcoal,Quercus ilex,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,US-22,NA,NA,NA,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,US-28,NA,NA,NA,NA,NA,NA,3935,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"House 2, Phase 2",Beta-172050,Charcoal,Quercus ilex,NA,NA,NA,3990,70,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"House 2, Phase 2",Beta-172051,Charcoal,Quercus ilex,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"House 1, Phase 2",Ua-20481,Charcoal,Quercus ilex,NA,NA,NA,3935,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,US-4,NA,NA,NA,NA,NA,NA,3910,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,US-2,NA,NA,NA,NA,NA,NA,3890,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Junta de los Ríos,"House 1, Fase 2",Ua-23884,Charcoal,Quercus ilex,NA,NA,NA,3880,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-La Pijotilla,E4-Interme,Beta -121146,NA,NA,NA,NA,NA,4010,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-La Pijotilla,E4-Abandoned ,Beta-121145,NA,NA,NA,NA,NA,4010,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
-Herdade do Pomar,NA,ICEN-87,Bone,Homo sapiens,NA,NA,NA,3510,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Herdade do Pomar,NA,ICEN-85,Bone,Homo sapiens,NA,NA,NA,3320,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pessegueiro,Tomb 16,ICEN-867,Bone,Homo sapiens,Burial 1,NA,NA,3270,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pessegueiro,Tomb 16,ICEN-868,Bone,Homo sapiens,Burial 2,NA,NA,3030,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casas Velhas,Tomb 14,OxA-5531,Bone,Homo sapiens,NA,NA,NA,3255,55,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casas Velhas,Tomb 35,Beta-127904,Bone,Homo sapiens,NA,NA,NA,3260,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Las Minitas,Tomb 15,Beta-142035,Bone,Homo sapiens,Burial 2,NA,NA,3430,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Horta do Folgão,NA,Sac-2557,Bone,Homo sapiens,NA,NA,NA,3400,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Cadavais,NA,Sac-2583,Bone,Homo sapiens,UE 612,NA,NA,3550,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Outeiro Alto 2,NA,Sac-2666,Bone,Homo sapiens,EU 6208,NA,NA,3320,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Carrascalejo,Pit 7,Poz-19929,Legume,Lathyrus sp.,EU 594,NA,NA,3320,35,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Alanje,Umbria 3,Beta-68667,Charcoal,NA,Nível 2,NA,NA,3080,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Alanje,Umbria 3,Beta-68668,Charcoal,NA,Nível 4,NA,NA,3520,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Alanje,Umbria 3,Beta-68669,Charcoal,NA,Nível 6,NA,NA,3600,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C4/UE4,Beta-165549,Charcoal,NA,NA,NA,NA,3780,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C4/UE18,RCD-447,Charcoal,NA,NA,NA,NA,3565,65,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/F22/UE6,Beta - 178656,Charcoal,NA,NA,NA,NA,3530,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C2/UE16,Beta - 217033,Charcoal,NA,NA,NA,NA,3530,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C2/UE5,RCD-448,Charcoal,NA,NA,NA,NA,3450,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C2/EU31,Beta - 178659,Charcoal,NA,NA,NA,NA,3490,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/F22/UE7,CNA-38,Charcoal,NA,NA,NA,NA,3437,36,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/F22/UE7,Beta - 178657,Charcoal,NA,NA,NA,NA,3400,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/K10/UE5,Beta - 165547,Charcoal,NA,NA,NA,NA,3390,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/F22/UE13,Beta - 178658,Charcoal,NA,NA,NA,NA,3290,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/K10/UE2,CNA-36,Charcoal,NA,NA,NA,NA,3355,52,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C2/UE10,Beta - 217032,Charcoal,NA,NA,NA,NA,3350,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR90/K10/UE1,CNA-35,Charcoal,NA,NA,NA,NA,3320,37,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-La Pápua,PA94/C2/UE5,Beta - 217031,Charcoal,NA,NA,NA,NA,3610,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Anta 4 Zambujeiro,NA,Beta-196093,Bone,Homo sapiens,NA,NA,NA,3040,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-La Venta,NA,Beta-150152,Bone,Homo sapiens,NA,NA,NA,2820,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Tanchoal dos Patudos,NA,GrA-9572,Bone,Homo sapiens,NA,NA,NA,2790,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Tanchoal dos Patudos,NA,GrA-9270,Bone,Homo sapiens,NA,NA,NA,2830,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Roça do Casal do Meio,NA,GrA-13501,Bone,Homo sapiens,NA,NA,NA,2760,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Roça do Casal do Meio,NA,GrA-13502,Bone,Homo sapiens,NA,NA,NA,2820,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Praia da Oliveirinha,NA,ICEN-727,Shell,Patella sp.,NA,NA,NA,3460,50,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Percevejo,NA,ICEN-1084,Charcoal,Homo sapiens,NA,NA,NA,2940,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Percevejo,NA,ICEN-1083,Shell,Venerupis decussata,NA,NA,NA,3370,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN- 924,Bone,NA_fauna,NA,NA,NA,2700,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-920,Shell,Patella sp.,NA,NA,NA,3210,40,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-922,Shell,Patella sp.,NA,NA,NA,3170,50,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-923,Bone,NA_fauna,NA,NA,NA,2560,100,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-943,Bone,NA_fauna,NA,NA,NA,2780,120,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-947,Shell,Patella sp.,NA,NA,NA,3380,60,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Quinta do Marcelo,NA,ICEN-945,Shell,Patella sp.,NA,NA,NA,3290,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 18/C2,Sac-2309,Bone,NA_fauna,NA,NA,NA,2900,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 14/C2,Sac-2306,Charcoal,Querus ,NA,NA,NA,2890,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 41/C1,Sac-2311,Bone,NA_fauna,NA,NA,NA,2800,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 29/C3,Sac-2303,Charcoal,Querus ,NA,NA,NA,2780,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 31/C2,Sac-2304,Bone,NA_fauna,NA,NA,NA,2540,110,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 10/C1,Beta-261316,Wood,Quercus suber,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 33/C2,Beta-261317,Charcoal,Fraxinus sp.,NA,NA,NA,2900,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Pit 8/Plain Axe mold,Beta-331981,Bone,NA,NA,NA,NA,2830,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Passo Alto,Base of a circular hut,Beta-313501,Charcoal,Erica sp.,NA,NA,NA,2830,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Passo Alto,Wall debris,Sac-2197,Wood,Quercus sp.,NA,NA,NA,2790,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Passo Alto,Cheval de frise,Sac-2198,Charcoal,Erica arborea,NA,NA,NA,2660,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Passo Alto,Cheval de frise,Sac-2284,Charcoal,Erica arborea,NA,NA,NA,2790,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Passo Alto,NA,Beta-261321,Charcoal,Olea europaea,NA,NA,NA,2590,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 326,Sac-2784,Bone,NA_fauna,NA,NA,NA,2810,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 340,Sac-2763,Bone,NA_fauna,NA,NA,NA,2720,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 256,Sac-2695,Bone,NA_fauna,NA,NA,NA,3220,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 173,Sac-2667,Bone,NA_fauna,NA,NA,NA,3150,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 260,Sac-2669,Bone,NA_fauna,NA,NA,NA,3160,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Evoramonte,UE 165,Sac-2715,Bone,NA_fauna,NA,NA,NA,3120,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Hut  base Survey  2/203B,Beta-313500,Charcoal,Calluna vulgaris,NA,NA,NA,2780,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Pit 5/502,Sac-2411,Charcoal,NA,NA,NA,NA,2660,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Pit 6/601,Sac-2410,Charcoal,NA,NA,NA,NA,2610,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Hut base Survey  8/809-1,Sac-2405,Bone,NA_fauna,NA,NA,NA,2740,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Hut base Survey 10/1012,Sac-2403,Charcoal,NA,NA,NA,NA,2770,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Hut base Survey 10/1012,Sac-2409,Charcoal,NA,NA,NA,NA,2650,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Entre Águas 5,Hut base Survey 10/1374,Beta-261318,Charcoal,Erica sp.,NA,NA,NA,2740,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Cerro da Mangancha,UE 4,Beta-305422,Cereal,Hordeum vulgare,NA,NA,NA,2730,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Salsa 3,Hut base UE 56,Beta-236601,Charcoal,NA,NA,NA,NA,2910,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Salsa 3,Hut base UE 56,Beta-262197,Bone,NA_fauna,NA,NA,NA,2760,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Salsa 3,Hut base UE 45,Beta-262196,Bone,NA_fauna,NA,NA,NA,2610,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase  2 or 2b (M3/Iid),Sac-2230,Charcoal,NA,NA,NA,NA,2820,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1b (M2/IIIc),Sac-2288,Charcoal,NA,NA,NA,NA,2660,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1b (CI/IIa),Sac-2323,Bone,NA_fauna,NA,NA,NA,2570,35,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1b (B1/Ic),Sac-2324,Bone,NA_fauna,NA,NA,NA,2550,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (C2/Ib),Sac-2340,Bone,NA_fauna,NA,NA,NA,2750,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (R1/Ie),Sac-2229,Charcoal,NA,NA,NA,NA,2490,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (B1/Ib),Sac-2341,Bone,NA_fauna,NA,NA,NA,2580,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (A4/Ie),Sac-1978,Bone,NA_fauna,NA,NA,NA,2530,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (A1/IIa),Sac-1979,Bone,NA_fauna,NA,NA,NA,2500,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Castro dos Ratinhos,Phase 1a (M3/Ic),Sac-2318,Charcoal,NA,NA,NA,NA,2580,120,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Rocha do Vigio 2,UE 57,Wk-18496,Bone,NA_fauna,NA,NA,NA,2645,33,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Rocha do Vigio 2,UE 65,Wk-18497,Bone,NA_fauna,NA,NA,NA,2536,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 4,CNA-870,Charcoal,NA,NA,NA,NA,2775,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 4,CNA-873,Charcoal,NA,NA,NA,NA,2820,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 5,CNA-871,Charcoal,NA,NA,NA,NA,2805,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 6,CNA-872,Charcoal,NA,NA,NA,NA,2755,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 11,CNA-875,Charcoal,NA,NA,NA,NA,2824,46,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 8,CNA-874,Charcoal,NA,NA,NA,NA,2805,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 20,CNA-881,Charcoal,NA,NA,NA,NA,2770,32,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 20,CNA-877,Charcoal,NA,NA,NA,NA,2932,34,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 13,CNA-876,Charcoal,NA,NA,NA,NA,3023,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 3,CNA-880,Charcoal,NA,NA,NA,NA,2988,29,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 31,CNA-878,Charcoal,NA,NA,NA,NA,2971,56,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Medellín SMRO,UE 36,CNA-879,Charcoal,NA,NA,NA,NA,3037,44,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+﻿Site,Structure_ID,Lab_ID,Material,Species,Individual_ID,Duplicate_individual,C13_Delta,N15_Delta,C14_Age,C14_SD,calCurve,Reservoir_region,Period,Culture,Reference
+Galeria da Cisterna,Layer A,"OxA-27982	",Bone,Ovis sp.,F22-696,NA,NA,NA,2129,27,intcal20,NA,Iron Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Underwater,"Beta-124199	",Wood,NA,NA,NA,NA,NA,2270,40,intcal20,NA,Iron Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A1 LayerA,OxA-27983,Bone,Capra sp.,G19-419,NA,NA,NA,3310,28,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A2 LayerA,OxA-27984,Bone,Capra sp.,G21-556,NA,NA,NA,3354,28,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A1 LayerA,OxA-X-2515-17,Bone,Ovis aries,G18-129,NA,NA,NA,3378,32,intcal20,NA,Bronze Age,NA,"Zilhão, 2021"
+Galeria da Cisterna,Split A2 LayerA,OxA-28856,Bone,Homo sapiens,G19-785,NA,NA,NA,3774,28,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Split A4 LayerA,OxA-28858,Bone,Homo sapiens,G21-1765,NA,NA,NA,3819,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Split A1 LayerA,OxA-28857,Bone,Homo sapiens,G18-187,NA,NA,NA,3836,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Layer A,OxA-28859,Bone,Homo sapiens,F23-90,NA,NA,NA,3847,29,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Split A4 LayerA,S-EVA-25635,Bone,Homo sapiens,G21-1762,NA,NA,NA,3865,17,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Split A3 LayerA,S-EVA-27410,Bone,Homo sapiens,G21-1079,NA,NA,NA,3872,19,intcal20,NA,Chalcolithic,Bell Beaker,"Zilhão, 2021"
+Galeria da Cisterna,Split A3 Layer A,"Wk-38575	",Bone,Homo sapiens,"G21-1080	",NA,NA,NA,6253,30,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split A4 Layer A,"S-EVA-25634	",Bone,Cervus elaphus,"G21-1871	",NA,NA,NA,6261,20,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split B2 Layer A,"Wk-38574	",Bone,Homo sapiens,"G20-1030	",NA,NA,NA,6270,30,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Layer A,"OxA-28855	",Bone,Homo sapiens,"F19-385	",NA,NA,NA,6280,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split A3 Layer A,"Wk-38576	",Bone,Homo sapiens,"G21-1081	",NA,NA,NA,6312,31,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split A2 LayerA,"S-EVA-27412	",Bone,Homo sapiens,"G21-631	",NA,NA,NA,6319,22,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split A4 Layer A,"S-EVA-27411	",Bone,Homo sapiens,"G21-1764	",NA,NA,NA,6380,21,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Split A4 Layer A,"OxA-9288	",Bone,Cervus elaphus,"G21-2278	",NA,NA,NA,6445,45,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Galeria da Cisterna,Layer A,"OxA-9287	",Bone,Cervus elaphus,"F19-52	",NA,NA,NA,6445,45,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NM,"OxA-35145	",Bone,Homo sapiens,M18sc36,NA,NA,NA,4770,32,intcal20,NA,Neolithic,NA,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Eb-sup Phase NM,"TO-349	",Bone,Homo sapiens,"O14-78	",NA,NA,NA,4940,70,intcal20,NA,Neolithic,NA,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Eb-indif Phase NA1,"TO-350	",Bone,Homo sapiens,"Q11-88	",NA,NA,NA,5810,70,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1036	",Bone,Bos taurus,"Q13-62	",NA,NA,NA,5870,80,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1.2 Layer Ea Phase NA1,"OxA-1037	",Bone,Bos taurus,"Q13-66	",NA,NA,NA,5970,120,intcal20,NA,Neolithic,Epicardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E5 Layer Eb-indif Phase NA2-A,"OxA-1033	",Bone,Homo sapiens,"O12-50	",NA,NA,NA,6130,90,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E5 Layer Eb-indif Phase NA2,"OxA-1034	",Bone,Ovis aries,"Q13-99	",NA,NA,NA,6230,80,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E6 Layer Eb-indif Phase NA2-A,"UBA-40087	",Bone,Homo sapiens,"Q12-186	",NA,NA,NA,6237,35,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E2 Layer Eb inf Phase NA2-A,"OxA-35146	",Bone,Homo sapiens,"N15-68	",NA,NA,NA,6242,35,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E7 Layer Eb indif Phase NA2-A,"Wk-38579	",Bone,Homo sapiens,"P12-151	",NA,NA,NA,6260,33,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E1 Layer Ea Phase NA2,"OxA-1035	",Bone,Ovis aries,"P14-44	",NA,NA,NA,6330,80,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E Layer Eb-indf Phase NA2-B,"Wk-38577	",Bone,Homo sapiens,P11sc174,NA,NA,NA,6345,31,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split F11 Layer Fb Phase NA2-B,"OxA-37728	",Bone,Homo sapiens,"P12-251	",NA,NA,NA,6350,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split ABC1 Layer ABC-D Phase NA2-B,"OxA-35147	",Bone,Homo sapiens,"O9sc97	",NA,NA,NA,6368,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split F3 Layer Fb Phase NA2-B,"OxA-37729	",Bone,Homo sapiens,"O12-57	",NA,NA,NA,6374,34,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E2 Layer Eb-indif Phase NA2-C,"UBA-40088	",Bone,Homo sapiens,"R11-8	",NA,NA,NA,6415,36,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E2 Layer Eb-indif Phase NA2-C,"Wk-38580	",Bone,Homo sapiens,R11-7,NA,NA,NA,6444,33,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E6 Layer Eb-indif Phase NA2-C,"Wk-38578	",Bone,Homo sapiens,"Q12-181	",NA,NA,NA,6452,29,intcal20,NA,Neolithic,Cardial,"Zilhão, 2021"
+Gruta do Caldeirão,Split E4 Layer Eb-indif Phase NA2. Natural component of the deposit unrelated,"ICEN-296	",Charcoal,NA,"P14-84	",NA,NA,NA,6870,210,intcal20,NA,NA,NA,"Zilhão, 2021"
+Torre Velha 3,Tomb 2550-2551,Sac-2466,Bone,Bos taurus,2016,NA,-21.8,NA,3250,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 1662-1664,Beta-262199,Bone,Ovis aries,1601,NA,-20.5,NA,3300,40,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 2119-2120,Sac-2465,Bone,Bos taurus,2008,NA,-22,NA,3300,50,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 1489-1490,Sac-2489,Bone,Bos taurus,1511,NA,-22.3,NA,3300,45,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 2498-2497,Sac-2480,Bone,Bos taurus,2489,NA,-19.8,NA,3340,50,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 1949-1950,Sac-2490,Bone,Bos taurus,1801,NA,-21.5,NA,3410,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Torre Velha 3,Tomb 1267-1792,Sac-2825,Bone,Homo sapiens,1714,NA,-20.3,NA,3280,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Torre Velha 3,Tomb 2356-2357,Sac-2827,Bone,Homo sapiens,2051,NA,-20.3,NA,3340,80,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Torre Velha 3,Tomb 2417-2418,Sac-2826,Bone,Homo sapiens,2241,NA,-20.5,NA,3170,90,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Torre Velha 3,Tomb 1212,Sac-2882,Bone,Homo sapiens,969,NA,-21,NA,3330,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Torre Velha 3,Tomb 2392,"Sac-2883	",Bone,Homo sapiens,1991,NA,-20.6,NA,3290,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Belmeque,Tomb Belm1,ICEN-142,Bone,Homo sapiens,NA,NA,-18.6,NA,3230,60,intcal20,NA,Bronze Age,SW Bronze Age,Alves et al.2010
+Monte da Cabida 3,Tomb 9,Sac-2631,Bone,Homo sapiens,904,NA,-18.9,NA,3290,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte da Cabida 3,Tomb 41/931,Sac-2888,Bone,Homo sapiens,NA,NA,-19.4,NA,3490,50,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Monte da Cabida 3,Tomb 64/960,Sac-2437,Bone,Homo sapiens,NA,NA,-20.5,NA,3330,45,intcal20,NA,Bronze Age,SW Bronze Age,Valério et al. 2014
+Monte da Cabida 3,Tomb 62,Sac-2436,Bone,Homo sapiens,Burial 1,NA,-20,NA,2880,50,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Monte da Cabida 3,UE 986,Sac-2315,Charcoal,NA,Pit 62,NA,-22.9,NA,2920,70,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Monte da Cabida 3,UE 986,Sac-2322,Fauna,NA_fauna,Pit 62,NA,-21.3,NA,2860,40,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Castellón Alto ,Tomb 7,Ua-37879,Bone,Homo sapiens,4098-1,NA,NA,NA,3490,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 7,Ua-37880,Bone,Homo sapiens,4098-2,NA,NA,NA,3455,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 75,Ua-37881,Bone,Homo sapiens,35441,NA,NA,NA,3510,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 75,Ua-37882,Bone,Homo sapiens,35442,NA,NA,NA,3630,50,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 85,Ua-37883,Bone,Homo sapiens,4475,NA,NA,NA,3665,45,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 85,Ua-37884,Bone,Homo sapiens,4520,NA,NA,NA,3570,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 91,Ua-37885,Bone,Homo sapiens,351122,NA,NA,NA,3475,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 91,Ua-37886,Bone,Homo sapiens,351123,NA,NA,NA,3445,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37887,Bone,Homo sapiens,NA,NA,NA,NA,3425,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37888,Bone,Homo sapiens,NA,NA,NA,NA,3840,60,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37889,Bone,Homo sapiens,NA,NA,NA,NA,3435,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 110,Ua-37890,Bone,Homo sapiens,351191,NA,NA,NA,3565,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,Tomb 110,Ua-37891,Bone,Homo sapiens,351192,NA,NA,NA,3530,45,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37892,Bone,Homo sapiens,NA,NA,NA,NA,3640,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37893,Bone,Homo sapiens,NA,NA,NA,NA,3520,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37894,Bone,Homo sapiens,NA,NA,NA,NA,3495,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Castellón Alto ,NA,Ua-37895,Bone,Homo sapiens,NA,NA,NA,NA,3480,40,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39397,Bone,Homo sapiens,NA,NA,NA,NA,3286,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 4,Ua-39398,Bone,Homo sapiens,1,NA,NA,NA,3466,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 4,Ua-39399,Bone,Homo sapiens,2,NA,NA,NA,3437,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39400,Bone,Homo sapiens,NA,NA,NA,NA,3479,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,6,Ua-39401,Bone,Homo sapiens,1,NA,NA,NA,3488,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,6,Ua-39402,Bone,Homo sapiens,2,NA,NA,NA,3500,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39403,Bone,Homo sapiens,NA,NA,NA,NA,3426,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39404,Bone,Homo sapiens,NA,NA,NA,NA,3394,36,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39405,Bone,Homo sapiens,NA,NA,NA,NA,3468,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39406,Bone,Homo sapiens,NA,NA,NA,NA,3564,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39407,Bone,Homo sapiens,NA,NA,NA,NA,3709,41,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39408,Bone,Homo sapiens,NA,NA,NA,NA,3216,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39409,Bone,Homo sapiens,NA,NA,NA,NA,3187,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 21,Ua-39410,Bone,Homo sapiens,A1,NA,NA,NA,3586,36,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 21,Ua-39411,Bone,Homo sapiens,B1,NA,NA,NA,3391,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 22,Ua-39412,Bone,Homo sapiens,A1,NA,NA,NA,3525,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 22,Ua-39413,Bone,Homo sapiens,B1,NA,NA,NA,3433,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39414,Bone,Homo sapiens,NA,NA,NA,NA,3487,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39415,Bone,Homo sapiens,NA,NA,NA,NA,3429,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39416,Bone,Homo sapiens,NA,NA,NA,NA,3323,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 29,Ua-39417,Bone,Homo sapiens,1,NA,NA,NA,3401,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 29,Ua-39418,Bone,Homo sapiens,2,NA,NA,NA,3326,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 30,Ua-39419,Bone,Homo sapiens,A1,NA,NA,NA,3802,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 30,Ua-39420,Bone,Homo sapiens,B1,NA,NA,NA,3780,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,Tomb 30,Ua-39421,Bone,Homo sapiens,C1,NA,NA,NA,3785,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39422,Bone,Homo sapiens,NA,NA,NA,NA,3406,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro de la Virgen,NA,Ua-39423,Bone,Homo sapiens,NA,NA,NA,NA,3395,35,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39462,Bone,Homo sapiens,NA,NA,NA,NA,3275,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 2,Ua-39463,Bone,Homo sapiens,P39011,NA,NA,NA,3505,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 2,Ua-39464,Bone,Homo sapiens,P39012,NA,NA,NA,3508,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39465,Bone,Homo sapiens,NA,NA,NA,NA,3242,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 4,Ua-39466,Bone,Homo sapiens,P12089,NA,NA,NA,3281,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 4,Ua-39467,Bone,Homo sapiens,P12092,NA,NA,NA,3375,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39468,Bone,Homo sapiens,NA,NA,NA,NA,3469,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 6,Ua-39469,Bone,Homo sapiens,P12105a,NA,NA,NA,3132,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 6,Ua-39470,Bone,Homo sapiens,P12105b,NA,NA,NA,3378,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39471,Bone,Homo sapiens,NA,NA,NA,NA,3418,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39472,Bone,Homo sapiens,NA,NA,NA,NA,3316,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 9,Ua-39473,Bone,Homo sapiens,P11085a,NA,NA,NA,3413,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 9,Ua-39474,Bone,Homo sapiens,P11085b,NA,NA,NA,3414,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39475,Bone,Homo sapiens,NA,NA,NA,NA,3499,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39476,Bone,Homo sapiens,NA,NA,NA,NA,3568,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39477,Bone,Homo sapiens,NA,NA,NA,NA,3377,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39478,Bone,Homo sapiens,NA,NA,NA,NA,3548,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39479,Bone,Homo sapiens,NA,NA,NA,NA,3472,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 19,Ua-39480,Bone,Homo sapiens,P3697,NA,NA,NA,3589,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 19,Ua-39481,Bone,Homo sapiens,P3698,NA,NA,NA,3511,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39482,Bone,Homo sapiens,NA,NA,NA,NA,3467,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39483,Bone,Homo sapiens,NA,NA,NA,NA,3411,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39484,Bone,Homo sapiens,NA,NA,NA,NA,3355,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39485,Bone,Homo sapiens,NA,NA,NA,NA,3365,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39486,Bone,Homo sapiens,NA,NA,NA,NA,3521,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39487,Bone,Homo sapiens,NA,NA,NA,NA,3534,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 29,Ua-39488,Bone,Homo sapiens,P45207,NA,NA,NA,3413,31,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 29,Ua-39489,Bone,Homo sapiens,P45208,NA,NA,NA,3288,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39490,Bone,Homo sapiens,NA,NA,NA,NA,3339,30,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 31,Ua-39491,Bone,Homo sapiens,P45520,NA,NA,NA,3254,33,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,Tomb 31,Ua-39492,Bone,Homo sapiens,P45521,NA,NA,NA,3287,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39493,Bone,Homo sapiens,NA,NA,NA,NA,3396,32,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cuesta del Negro,NA,Ua-39494,Bone,Homo sapiens,NA,NA,NA,NA,3276,34,intcal20,NA,Bronze Age,El Argar,"Serrano and González, 2009"
+Cerro  de  la  Encina,Tomb 13,Beta-230003,Bone,Homo sapiens,NA,NA,NA,NA,3590,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Cerro  de  la  Encina,Tomb 14,Beta-230009,Bone,Homo sapiens,NA,NA,NA,NA,3420,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Cerro  de  la  Encina,Tomb 15,Beta-230010,Bone,Homo sapiens,NA,NA,NA,NA,3140,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Cerro  de  la  Encina,Tomb 21,Beta-230005,Bone,Homo sapiens,NA,NA,NA,NA,3280,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Cerro  de  la  Encina,Tomb 21,Beta-230006,Bone,Homo sapiens,NA,NA,NA,NA,3330,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Cerro  de  la  Encina,Tomb 22,Beta-230004,Bone,Homo sapiens,NA,NA,NA,NA,3350,40,intcal20,NA,Bronze Age,El Argar,Jiménez et al. 2008
+Bugalhos,NA,Beta-120049,Linen,NA,NA,NA,-26.1,NA,3450,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Horta do Albardão 3,NA,Sac-2252,Bone,Homo sapiens,1,NA,-21.6,NA,3080,60,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Casarão da Mesquita 3,NA,Sac-2248,Bone,Homo sapiens,NA,NA,-19.7,NA,2990,60,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Casarão da Mesquita 3,NA,Sac-2305,Bone,NA_fauna,NA,NA,-20.4,NA,2900,70,intcal20,NA,Bronze Age,SW Bronze Age,Soares et al. 2009
+Monte da Velha 1,MV1,Beta-194027,Bone,Homo sapiens,NA,NA,-19.4,NA,3900,40,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Soares et al. 2009
+Centirã 2,UE12,Sac-2791,Bone,Homo sapiens,Oss1,NA,NA,NA,3940,50,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE13,Sac-2790,Bone,Homo sapiens,Ent2,NA,NA,NA,3900,45,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE14,Sac-2792,Bone,Homo sapiens,NA,NA,NA,NA,3790,110,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE14,Sac-2782,Bone,Homo sapiens,Ent4,NA,NA,NA,3760,70,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE12,Sac-2796,Bone,Homo sapiens,Ent1,NA,NA,NA,3710,45,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE12,Beta-331980,Bone,Homo sapiens,Ent1,NA,NA,NA,3680,30,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Centirã 2,UE7,Sac-2788,Bone,Homo sapiens,Ent1,NA,NA,NA,3810,80,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Alcalar 7,C32,Beta-180980,Charcoal,NA,Hearth 4,NA,NA,NA,3860,40,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Anta de N. Sra. Da Conceição / Estremoz 7,NA,Wk-17089,Bone,Homo sapiens,NA,NA,NA,NA,3758,36,intcal20,NA,Chalcolithic,Bell Beaker w/Megalithism,Mataloto et al. 2013
+Miguens 3,UE35,Wk-18507,Charcoal,Olea,NA,NA,NA,NA,3934,33,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+Miguens 3,UE55,Wk-18508,Charcoal,Olea,NA,NA,NA,NA,3902,38,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+Porto das Carretas (Phase II),C.2B Tower M13, Beta-196681,Charcoal,Pinus pinea,Hearth C,NA,NA,NA,3920,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+Porto das Carretas (Phase II),C.2B Tower M13,Beta-204062,Charcoal,Pinus pinea,Hearth B,NA,NA,NA,3860,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+Porto das Carretas (Phase II),C.2B Tower M13,Beta-193743,Charcoal,Olea,Hearth A,NA,NA,NA,3840,60,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+San Blás,SB/K7/37,NA,Charcoal,NA,NA,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+San Blás,SB/H22/29,NA,Charcoal,NA,NA,NA,NA,NA,3950,40,intcal20,NA,Chalcolithic,Bell Beaker,Mataloto et al. 2013
+Anta 2 dos Cebolinhos,L.12-36a,Beta-176899,Bone,Homo sapiens,NA,NA,NA,NA,3900,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta 2 dos Cebolinhos,L.12-36b,Beta-177471,Bone,Homo sapiens,NA,NA,NA,NA,3840,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta 3 de Santa Margarida,Cm-3,Beta-166418,Bone,Homo sapiens,NA,NA,NA,NA,3780,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta 3 de Santa Margarida,Cm-2,Beta-166417,Bone,Homo sapiens,NA,NA,NA,NA,3770,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta 3 de Santa Margarida,Cm-3,Beta-166420,Bone,Canis sp.,NA,NA,NA,NA,3720,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta 3 de Santa Margarida,Cm-4,Beta-166421,Bone,Homo sapiens,NA,NA,NA,NA,3730,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Anta Grande Zambujeiro,C.2B experior pit,Beta-243693,Charcoal,NA,NA,NA,NA,NA,3910,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+São Paulo 2,NA,UBAR-629,Bone,Homo sapiens,NA,NA,NA,NA,3960,190,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+São Paulo 2,NA,UBAR-630,Bone,Homo sapiens,NA,NA,NA,NA,3870,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Vale Rodrigo 2,"Stage 4, end of corridor",Ua-10831,Charcoal,NA,NA,NA,NA,NA,3905,75,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Pedra Escorregadia,NA,ICEN-844,Bone,Homo sapiens,NA,NA,NA,NA,4060,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Pedra Escorregadia,NA,ICEN-1028,Bone,Homo sapiens,NA,NA,NA,NA,3800,100,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Tholos La Pijotilla 1,NA,BM-1603,Charcoal,NA,NA,NA,NA,NA,3860,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Huerta Montero,NA,GrN-16954,Bone,Homo sapiens,NA,NA,NA,NA,3720,100,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+La Venta,Chamber,Beta-150158,Charcoal,NA,NA,NA,NA,NA,3820,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Los Gabrieles 4,US 2,Beta-185650,Charcoal,NA,NA,NA,NA,NA,3700,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Los Gabrieles 4,US 3,Beta-185648,Charcoal,NA,NA,NA,NA,NA,3850,40,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Los Gabrieles 4,US 4,Beta-185649,Charcoal,NA,NA,NA,NA,NA,3920,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+El Pozuelo Dolmen 6,Corredor,I-19080,Charcoal,NA,NA,NA,NA,NA,3580,120,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Dolmen de la Paloma,Chamber,Beta-150154,Bone,Homo sapiens,NA,NA,NA,NA,4070,70,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Puerto de los Huertos,Soil interior funerary chamber,CNA-342,Charcoal,NA,NA,NA,NA,NA,4050,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Puerto de los Huertos,Soil interior structure,CNA-344,Charcoal,NA,NA,NA,NA,NA,3940,45,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Puerto de los Huertos,Soil filling,CNA-341,Charcoal,NA,NA,NA,NA,NA,3680,50,intcal20,NA,Chalcolithic,Megalithism,Mataloto et al. 2013
+Escoural,QD7/C.2,ICEN-611,Fauna,NA,NA,NA,NA,NA,4010,90,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Escoural,QD7/C.1,ICEN-610,Fauna,NA,NA,NA,NA,NA,3940,90,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C2,Beta-261319,Cork,Quercus suber,NA,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C5,Beta-261320,Charcoal,Quercus sp.,NA,NA,NA,NA,3770,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Horta do Albardão 3,Pit C5,Sac-2287,Charcoal,Quercus suber,NA,NA,NA,NA,3730,190,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Palheirão Furado,Occupation level,ICEN-731,Shell,Patella sp.,NA,NA,NA,NA,4200,60,marine20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 99",Beta-285098,Tooth,Sus sp.,NA,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 58",Beta-285096,Tooth,Bos taurus,NA,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 3, UE 38",Beta-285095,Tooth,Fauna,NA,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 4, UE 90",Beta- 289264,Bone,Homo sapiens,NA,NA,NA,NA,3940,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector 1, Pit 4, UE 90",Beta- 285097,Tooth,Cervus elaphus,NA,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Perdigões,"Sector Q, Pit 4, UE 74",Beta-2850,Tooth,Homo sapiens,NA,NA,NA,NA,3990,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Moinho Valadares,UE 83-top,Oxa-12715,Charcoal,NA,NA,NA,NA,NA,3726,29,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 1037,Sac- 1933,Fauna,NA,NA,NA,NA,NA,3790,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 1039,Sac- 1900,Fauna,NA,NA,NA,NA,NA,3720,80,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Mercador,UE 327,Oxa-11982,Bone,Homo sapiens,NA,NA,NA,NA,3664,29,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Monte Novo dos Albardeiros,Structure 2,ICEN-530,Fauna,NA,NA,NA,NA,NA,4060,80,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Monte Novo dos Albardeiros,Structure 1,ICEN-529,Fauna,NA,NA,NA,NA,NA,3760,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+São Pedro,Phase 4/5,KIA-33865,Charcoal,Quercus ilex,NA,NA,NA,NA,4043,35,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Porto Torrão,UE 2056,Sac-2027,Fauna,NA,NA,NA,NA,NA,3810,50,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Porto Torrão,UE 2020,Sac-2028,Fauna,NA,NA,NA,NA,NA,3700,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cortes 2,"Hypogeum, Est. 2, UE 1507",Sac-2575,Bone,Homo sapiens,NA,NA,NA,NA,3810,50,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cortes 2,"Hypogeum, Est. 2, UE 1511",Sac-2574,Bone,Homo sapiens,NA,NA,NA,NA,3700,60,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Palácio Quemado,2nd occupation phase,NA,NA,NA,NA,NA,NA,NA,3570,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+San Blás,SB/E9/38,NA,NA,NA,NA,NA,NA,NA,4030,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+San Blás,SB/J24/15,NA,NA,NA,NA,NA,NA,NA,3820,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,CSIC-1479,NA,NA,NA,NA,NA,NA,4059,35,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22810,NA,NA,NA,NA,NA,NA,4010,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22807,Charcoal,Quercus ilex,NA,NA,NA,NA,3995,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22806,Charcoal,Quercus ilex,NA,NA,NA,NA,3985,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,Ua-22811,NA,NA,NA,NA,NA,NA,3945,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 2,I-18307,Charcoal,Quercus ilex,NA,NA,NA,NA,3980,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18305,Charcoal,Quercus ilex,NA,NA,NA,NA,3880,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18309,Charcoal,Quercus ilex,NA,NA,NA,NA,3870,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18308,Charcoal,Quercus ilex,NA,NA,NA,NA,3850,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,Ua-22809,Charcoal,Quercus ilex,NA,NA,NA,NA,3840,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 3,I-18306,Charcoal,Quercus ilex,NA,NA,NA,NA,3830,100,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Cabezo Juré,Phase 4,CSIC-1481,Charcoal,Quercus ilex,NA,NA,NA,NA,3568,51,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"Space 9, Phase 1",Ua-23886,Charcoal,Quercus ilex,NA,NA,NA,NA,4035,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Phase 1",Ua-23885,Charcoal,Quercus ilex,NA,NA,NA,NA,4005,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-19,NA,NA,NA,NA,NA,NA,NA,4000,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,Door 1 - fortification,Ua-23883,Charcoal,Quercus ilex,NA,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-22,NA,NA,NA,NA,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-28,NA,NA,NA,NA,NA,NA,NA,3935,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 2, Phase 2",Beta-172050,Charcoal,Quercus ilex,NA,NA,NA,NA,3990,70,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 2, Phase 2",Beta-172051,Charcoal,Quercus ilex,NA,NA,NA,NA,3980,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Phase 2",Ua-20481,Charcoal,Quercus ilex,NA,NA,NA,NA,3935,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-4,NA,NA,NA,NA,NA,NA,NA,3910,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,US-2,NA,NA,NA,NA,NA,NA,NA,3890,45,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Junta de los Ríos,"House 1, Fase 2",Ua-23884,Charcoal,Quercus ilex,NA,NA,NA,NA,3880,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+La Pijotilla,E4-Interme,Beta -121146,NA,NA,NA,NA,NA,NA,4010,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+La Pijotilla,E4-Abandoned ,Beta-121145,NA,NA,NA,NA,NA,NA,4010,40,intcal20,NA,Chalcolithic,NA,Mataloto et al. 2013
+Herdade do Pomar,NA,ICEN-87,Bone,Homo sapiens,NA,NA,NA,NA,3510,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Herdade do Pomar,NA,ICEN-85,Bone,Homo sapiens,NA,NA,NA,NA,3320,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pessegueiro,Tomb 16,ICEN-867,Bone,Homo sapiens,Burial 1,NA,NA,NA,3270,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pessegueiro,Tomb 16,ICEN-868,Bone,Homo sapiens,Burial 2,NA,NA,NA,3030,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casas Velhas,Tomb 14,OxA-5531,Bone,Homo sapiens,NA,NA,NA,NA,3255,55,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casas Velhas,Tomb 35,Beta-127904,Bone,Homo sapiens,NA,NA,NA,NA,3260,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Las Minitas,Tomb 15,Beta-142035,Bone,Homo sapiens,Burial 2,NA,NA,NA,3430,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Horta do Folgão,NA,Sac-2557,Bone,Homo sapiens,NA,NA,NA,NA,3400,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Cadavais,NA,Sac-2583,Bone,Homo sapiens,UE 612,NA,NA,NA,3550,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Outeiro Alto 2,NA,Sac-2666,Bone,Homo sapiens,EU 6208,NA,NA,NA,3320,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Carrascalejo,Pit 7,Poz-19929,Legume,Lathyrus sp.,EU 594,NA,NA,NA,3320,35,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Alanje,Umbria 3,Beta-68667,Charcoal,NA,Nível 2,NA,NA,NA,3080,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Alanje,Umbria 3,Beta-68668,Charcoal,NA,Nível 4,NA,NA,NA,3520,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Alanje,Umbria 3,Beta-68669,Charcoal,NA,Nível 6,NA,NA,NA,3600,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C4/UE4,Beta-165549,Charcoal,NA,NA,NA,NA,NA,3780,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C4/UE18,RCD-447,Charcoal,NA,NA,NA,NA,NA,3565,65,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/F22/UE6,Beta - 178656,Charcoal,NA,NA,NA,NA,NA,3530,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C2/UE16,Beta - 217033,Charcoal,NA,NA,NA,NA,NA,3530,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C2/UE5,RCD-448,Charcoal,NA,NA,NA,NA,NA,3450,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C2/EU31,Beta - 178659,Charcoal,NA,NA,NA,NA,NA,3490,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/F22/UE7,CNA-38,Charcoal,NA,NA,NA,NA,NA,3437,36,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/F22/UE7,Beta - 178657,Charcoal,NA,NA,NA,NA,NA,3400,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/K10/UE5,Beta - 165547,Charcoal,NA,NA,NA,NA,NA,3390,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/F22/UE13,Beta - 178658,Charcoal,NA,NA,NA,NA,NA,3290,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/K10/UE2,CNA-36,Charcoal,NA,NA,NA,NA,NA,3355,52,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C2/UE10,Beta - 217032,Charcoal,NA,NA,NA,NA,NA,3350,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR90/K10/UE1,CNA-35,Charcoal,NA,NA,NA,NA,NA,3320,37,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+La Pápua,PA94/C2/UE5,Beta - 217031,Charcoal,NA,NA,NA,NA,NA,3610,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Anta 4 Zambujeiro,NA,Beta-196093,Bone,Homo sapiens,NA,NA,NA,NA,3040,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+La Venta,NA,Beta-150152,Bone,Homo sapiens,NA,NA,NA,NA,2820,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Tanchoal dos Patudos,NA,GrA-9572,Bone,Homo sapiens,NA,NA,NA,NA,2790,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Tanchoal dos Patudos,NA,GrA-9270,Bone,Homo sapiens,NA,NA,NA,NA,2830,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Roça do Casal do Meio,NA,GrA-13501,Bone,Homo sapiens,NA,NA,NA,NA,2760,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Roça do Casal do Meio,NA,GrA-13502,Bone,Homo sapiens,NA,NA,NA,NA,2820,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Praia da Oliveirinha,NA,ICEN-727,Shell,Patella sp.,NA,NA,NA,NA,3460,50,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Percevejo,NA,ICEN-1084,Charcoal,Homo sapiens,NA,NA,NA,NA,2940,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Percevejo,NA,ICEN-1083,Shell,Venerupis decussata,NA,NA,NA,NA,3370,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN- 924,Bone,NA_fauna,NA,NA,NA,NA,2700,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-920,Shell,Patella sp.,NA,NA,NA,NA,3210,40,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-922,Shell,Patella sp.,NA,NA,NA,NA,3170,50,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-923,Bone,NA_fauna,NA,NA,NA,NA,2560,100,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-943,Bone,NA_fauna,NA,NA,NA,NA,2780,120,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-947,Shell,Patella sp.,NA,NA,NA,NA,3380,60,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Quinta do Marcelo,NA,ICEN-945,Shell,Patella sp.,NA,NA,NA,NA,3290,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 18/C2,Sac-2309,Bone,NA_fauna,NA,NA,NA,NA,2900,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 14/C2,Sac-2306,Charcoal,Querus ,NA,NA,NA,NA,2890,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 41/C1,Sac-2311,Bone,NA_fauna,NA,NA,NA,NA,2800,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 29/C3,Sac-2303,Charcoal,Querus ,NA,NA,NA,NA,2780,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 31/C2,Sac-2304,Bone,NA_fauna,NA,NA,NA,NA,2540,110,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 10/C1,Beta-261316,Wood,Quercus suber,NA,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 33/C2,Beta-261317,Charcoal,Fraxinus sp.,NA,NA,NA,NA,2900,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Pit 8/Plain Axe mold,Beta-331981,Bone,NA,NA,NA,NA,NA,2830,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Passo Alto,Base of a circular hut,Beta-313501,Charcoal,Erica sp.,NA,NA,NA,NA,2830,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Passo Alto,Wall debris,Sac-2197,Wood,Quercus sp.,NA,NA,NA,NA,2790,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Passo Alto,Cheval de frise,Sac-2198,Charcoal,Erica arborea,NA,NA,NA,NA,2660,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Passo Alto,Cheval de frise,Sac-2284,Charcoal,Erica arborea,NA,NA,NA,NA,2790,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Passo Alto,NA,Beta-261321,Charcoal,Olea europaea,NA,NA,NA,NA,2590,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 326,Sac-2784,Bone,NA_fauna,NA,NA,NA,NA,2810,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 340,Sac-2763,Bone,NA_fauna,NA,NA,NA,NA,2720,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 256,Sac-2695,Bone,NA_fauna,NA,NA,NA,NA,3220,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 173,Sac-2667,Bone,NA_fauna,NA,NA,NA,NA,3150,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 260,Sac-2669,Bone,NA_fauna,NA,NA,NA,NA,3160,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Evoramonte,UE 165,Sac-2715,Bone,NA_fauna,NA,NA,NA,NA,3120,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Hut  base Survey  2/203B,Beta-313500,Charcoal,Calluna vulgaris,NA,NA,NA,NA,2780,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Pit 5/502,Sac-2411,Charcoal,NA,NA,NA,NA,NA,2660,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Pit 6/601,Sac-2410,Charcoal,NA,NA,NA,NA,NA,2610,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Hut base Survey  8/809-1,Sac-2405,Bone,NA_fauna,NA,NA,NA,NA,2740,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Hut base Survey 10/1012,Sac-2403,Charcoal,NA,NA,NA,NA,NA,2770,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Hut base Survey 10/1012,Sac-2409,Charcoal,NA,NA,NA,NA,NA,2650,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Entre Águas 5,Hut base Survey 10/1374,Beta-261318,Charcoal,Erica sp.,NA,NA,NA,NA,2740,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Cerro da Mangancha,UE 4,Beta-305422,Cereal,Hordeum vulgare,NA,NA,NA,NA,2730,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Salsa 3,Hut base UE 56,Beta-236601,Charcoal,NA,NA,NA,NA,NA,2910,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Salsa 3,Hut base UE 56,Beta-262197,Bone,NA_fauna,NA,NA,NA,NA,2760,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Salsa 3,Hut base UE 45,Beta-262196,Bone,NA_fauna,NA,NA,NA,NA,2610,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase  2 or 2b (M3/Iid),Sac-2230,Charcoal,NA,NA,NA,NA,NA,2820,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1b (M2/IIIc),Sac-2288,Charcoal,NA,NA,NA,NA,NA,2660,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1b (CI/IIa),Sac-2323,Bone,NA_fauna,NA,NA,NA,NA,2570,35,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1b (B1/Ic),Sac-2324,Bone,NA_fauna,NA,NA,NA,NA,2550,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (C2/Ib),Sac-2340,Bone,NA_fauna,NA,NA,NA,NA,2750,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (R1/Ie),Sac-2229,Charcoal,NA,NA,NA,NA,NA,2490,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (B1/Ib),Sac-2341,Bone,NA_fauna,NA,NA,NA,NA,2580,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (A4/Ie),Sac-1978,Bone,NA_fauna,NA,NA,NA,NA,2530,80,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (A1/IIa),Sac-1979,Bone,NA_fauna,NA,NA,NA,NA,2500,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Castro dos Ratinhos,Phase 1a (M3/Ic),Sac-2318,Charcoal,NA,NA,NA,NA,NA,2580,120,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Rocha do Vigio 2,UE 57,Wk-18496,Bone,NA_fauna,NA,NA,NA,NA,2645,33,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Rocha do Vigio 2,UE 65,Wk-18497,Bone,NA_fauna,NA,NA,NA,NA,2536,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 4,CNA-870,Charcoal,NA,NA,NA,NA,NA,2775,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 4,CNA-873,Charcoal,NA,NA,NA,NA,NA,2820,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 5,CNA-871,Charcoal,NA,NA,NA,NA,NA,2805,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 6,CNA-872,Charcoal,NA,NA,NA,NA,NA,2755,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 11,CNA-875,Charcoal,NA,NA,NA,NA,NA,2824,46,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 8,CNA-874,Charcoal,NA,NA,NA,NA,NA,2805,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 20,CNA-881,Charcoal,NA,NA,NA,NA,NA,2770,32,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 20,CNA-877,Charcoal,NA,NA,NA,NA,NA,2932,34,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 13,CNA-876,Charcoal,NA,NA,NA,NA,NA,3023,30,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 3,CNA-880,Charcoal,NA,NA,NA,NA,NA,2988,29,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 31,CNA-878,Charcoal,NA,NA,NA,NA,NA,2971,56,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Medellín SMRO,UE 36,CNA-879,Charcoal,NA,NA,NA,NA,NA,3037,44,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
 Trastejón,"TR 88 (Exterior
-terraza inferior)",Beta - 165548,Charcoal,NA,NA,NA,NA,2920,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Trastejón,TR88/C2/ UE20,RCD-445,Charcoal,NA,NA,NA,NA,2889,100,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-202,Wood,NA,NA,NA,NA,2830,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-203,Wood,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-206,Wood,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-207,Wood,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-205,Wood,NA,NA,NA,NA,2810,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Depósito de Huelva,alvado ponta de lança,CSIC-204,Wood,NA,NA,NA,NA,2800,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 3,Tomb 27,Beta-262195,Bone,Homo sapiens,Burial 2,NA,NA,3080,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casarão da Mesquita 4,EN43,Sac-2390,Bone,Homo sapiens,NA,NA,NA,3120,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Horta do Panéque,UE107,Sac-2334,Bone,Homo sapiens,NA,NA,NA,3030,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Horta do Jacinto,"Est. 1, UE 106",Sac-2632,Bone,Homo sapiens,NA,NA,NA,3220,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Corça 2,Survey 1. UE 103-2,Sac-2491,Bone,Homo sapiens,NA,NA,NA,2950,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Outeiro Alto 2,UE 4804,Sac-2672,Bone,Homo sapiens,Pit 46,NA,NA,3470,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Outeiro Alto 2,UE 5307,Sac-2671,Bone,Homo sapiens,Pit 53,NA,NA,3400,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte do Gato de Cima,UE 104,Sac-2573,Bone,Homo sapiens,Pit 1,NA,NA,3260,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte da Cabida 3,UE 848,Sac-2317,Charcoal,NA,NA,NA,NA,2690,200,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte da Cabida 3,UE 888,Sac-2368,Bone,Sus sp.,NA,NA,NA,3220,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte da Cabida 3,UE 966,Sac-2321,Bone,NA_fauna,NA,NA,NA,3440,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Monte da Cabida 3,UE 833,Sac-2326,Bone,NA_fauna,NA,NA,NA,3410,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,Est. 19,Sac-2635,Bone,NA_fauna,NA,NA,NA,3280,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,"Est 12, UE 1214",Sac-2328,Wood,Quercus suber,NA,NA,NA,3210,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,"Est 12, UE 1207",Sac-2369,Fauna,NA_fauna,NA,NA,NA,2790,180,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,"Est 9, UE 1032",Sac-2331,Wood,Quercus suber,NA,NA,NA,3040,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,"Est 9, UE 1014",Sac-2330,Charcoal,NA,NA,NA,NA,3000,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedreira de Trigaches 2,"Est 9, UE 1028",Sac-2332,Cereal,Hordeum vulgare,NA,NA,NA,2980,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pontes de Marchil,NA,ICEN-648,Shell,Venerupis decussata,NA,NA,NA,3350,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Chinflón,NA,BM-1529,Charcoal,NA,NA,NA,NA,3320,130,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Chinflón,NA,BM-1600,Charcoal,NA,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Chinflón,NA,BM-1601,Charcoal,NA,NA,NA,NA,2830,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Chinflón,NA,BM-1526,Charcoal,NA,NA,NA,NA,2650,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Corta Lago,NA,NA,Charcoal,NA,NA,NA,NA,2640,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-"Huelva, Plaza de Monjas",NA,GrN-29511,Bone,NA_fauna,NA,NA,NA,2745,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-"Huelva, Plaza de Monjas",NA,GrN-29512,Bone,NA_fauna,NA,NA,NA,2775,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-"Huelva, Plaza de Monjas",NA,GrN-29513,Bone,NA_fauna,NA,NA,NA,2740,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Alcalar 7,Hearth 5,Beta-180982,Charcoal,NA,NA,NA,NA,3280,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Anta das Castelhanas,NA,OxA-5432,Bone,Homo sapiens,NA,NA,NA,3220,65,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Casullo,NA,CNA-345,Charcoal,NA,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
-Pedras Grandes,NA,Beta-205946,Bone,Homo sapiens,"U58,PG(04)H6-28",19.9,8.4,4590,40,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
-Pedras Grandes,NA,Beta-234136,Bone,Homo sapiens,MG638.0005.2,19.6,8.6,4530,40,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
-Pedras Grandes,NA,OxA-35898,Bone,Homo sapiens,MG638.0005.3+0006.16,19.5,8.4,4796,30,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
-Pedras Grandes,NA,OxA-35899,Bone,Homo sapiens,MG638.0007.1-2,19.2,8.6,4671,29,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
-Pedras Grandes,NA,OxA-36001,Bone,Homo sapiens,MG638.0005.1,19.1,9.1,4812,28,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
-Anta da Bola de Cera,NA,ICEN-66,Bone,NA,NA,NA,NA,4360,50,intcal20,NA,Chalcolithic,Megalithism ,"Soares e Cabral, 1993"
-Sala n° 1,Level 6,ICEN-444,Bone,NA,NA,NA,NA,4490,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Sala n° 1,Level 5,ICEN-445,Bone,NA,NA,NA,NA,4490,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Sala n° 1,Level 4,ICEN-447,Bone,NA,NA,NA,NA,4490,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Sala n° 1,Level 3,ICEN-448,Bone,NA,NA,NA,NA,4140,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-S. Brás 1,Context with metallurgy,ICEN-44,Charcoal,NA,NA,NA,NA,4410,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-S. Brás 1,Context with metallurgy,ICEN-43,Charcoal,NA,NA,NA,NA,4480,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",UGRA-236,Charcoal,NA,NA,NA,NA,4550,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",ICEN-115,Charcoal,NA,NA,NA,NA,4340,35,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",ICEN-144,Charcoal,NA,NA,NA,NA,4390,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",UGRA-172,Charcoal,NA,NA,NA,NA,4540,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",ICEN-116,Charcoal,NA,NA,NA,NA,4400,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",UGRA-234,Charcoal,NA,NA,NA,NA,4280,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",ICEN-113,Charcoal,NA,NA,NA,NA,4220,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 1, without metallurgy",ICEN-117,Charcoal,NA,NA,NA,NA,4180,30,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Monte da Tumba,"Phase 2, with metallurgy",ICEN-131,Charcoal,NA,NA,NA,NA,4310,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-131,Charcoal,NA,NA,NA,NA,4390,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-90,Charcoal,NA,NA,NA,NA,4310,170,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-91,Charcoal,NA,NA,NA,NA,4100,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-75,Charcoal,NA,NA,NA,NA,3990,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-77,Charcoal,NA,NA,NA,NA,3960,180,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-76,Burned seeds,NA,NA,NA,NA,3920,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3230,Burned seeds,NA,NA,NA,NA,4400,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3229,Burned seeds,NA,NA,NA,NA,4250,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-86,Charcoal,NA,NA,NA,NA,3910,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-85,Charcoal,NA,NA,NA,NA,3890,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-55",ICEN-56,Bone,NA,NA,NA,NA,4300,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-56",ICEN-55,Bone,NA,NA,NA,NA,4290,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Porto Torrão,"Layer 1, ceramic, same sample as ICEN-6-",ICEN-61,Bone,NA,NA,NA,NA,4230,60,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
-Porto Torrão,"Layer 1, ceramic, same sample as ICEN-61",ICEN-60,Bone,NA,NA,NA,NA,4200,70,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
-Povoado do Escoural,NA,ICEN-609,Bone,NA,NA,NA,NA,4260,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Povoado do Escoural,NA,ICEN-608,Bone,NA,NA,NA,NA,4120,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Povoado do Escoural,NA,ICEN-611,Bone,NA,NA,NA,NA,4010,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Povoado do Escoural,NA,ICEN-610,Bone,NA,NA,NA,NA,3940,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-ETAR (Vila Nova de Milfontes),NA,ICEN-726,Shell,Monodonta sp.,NA,NA,NA,4120,60,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Tholos de A-dos-Tassos,NA,Sa-199,Charcoal,NA,NA,NA,NA,3320,200,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Valada do Mato,UE 7,Beta-153914,Charcoal,NA,NA,NA,NA,6030,50,intcal20,NA,Neolithic,NA,"Diniz, 2001"
-Comporta,NA,CSIC-648,Shell,Ostrea sp.,NA,NA,NA,4930,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
-Comporta,NA,CSIC-652,Shell,Ruditapes decussatus,NA,NA,NA,4720,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
-Comporta,NA,CSIC-649,Shell,Ruditapes decussatus,NA,NA,NA,4580,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
-Comporta,NA,CSIC-653,Shell,Ruditapes decussatus,NA,NA,NA,4270,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
-Lapa do Fumo,NA,KN-361,Charcoal,NA,NA,NA,NA,5040,160,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Lapa do Fumo,NA,ICEN-240,Bone,NA,NA,NA,NA,4420,45,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Cova das Lapas,NA,ICEN-463,Bone,NA,NA,NA,NA,4550,60,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-738,Bone,NA,NA,NA,NA,4630,45,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-312,Charcoal,NA,NA,NA,NA,4530,100,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-313,Charcoal,NA,NA,NA,NA,4520,130,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-136,Charcoal,NA,NA,NA,NA,4520,70,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-674,Charcoal,NA,NA,NA,NA,4370,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-91,Bone,NA,NA,NA,NA,4130,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-673,Charcoal,NA,NA,NA,NA,4130,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-675,Charcoal,NA,NA,NA,NA,4100,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,Ly-4205,Charcoal,NA,NA,NA,NA,4030,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-92,Charcoal,NA,NA,NA,NA,4120,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-89,Bone,NA,NA,NA,NA,4200,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-95,Shell,Venus sp.,NA,NA,NA,3990,70,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-102,Shell,Patella sp.,NA,NA,NA,3970,70,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-737,Bone,NA,NA,NA,NA,3920,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-314,Charcoal,NA,NA,NA,NA,3770,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Leceia,NA,ICEN-315,Charcoal,NA,NA,NA,NA,3730,170,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase III 2a-3c,GrN-7008,Bone,NA,NA,NA,NA,3980,35,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 2a,GrN-6671,Charcoal,NA,NA,NA,NA,4170,55,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 3a,GrN-7002,Charcoal,NA,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 3b,GrN-7003,Charcoal,NA,NA,NA,NA,4055,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 3b,GrN-7004,Charcoal,NA,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 3c,GrN-7005,Charcoal,NA,NA,NA,NA,4055,40,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 3c/4a,GrN-6670,Charcoal,NA,NA,NA,NA,4150,105,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 4b,GrN-6669,Charcoal,NA,NA,NA,NA,4025,95,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 4b,GrN-7007C,Charcoal,NA,NA,NA,NA,3950,65,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase Vx 4C,GrN-6668,Charcoal,NA,NA,NA,NA,3625,65,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Zambujal,Phase III 2a.,GrN-709,Charcoal,NA,NA,NA,NA,4200,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Alto do Dafundo,NA,ICEN-466,Shell,Patella sp.,NA,NA,NA,4300,60,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Pragança,NA,ICEN-573,Bone,NA,NA,NA,NA,4120,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Pragança,NA,ICEN-572,Bone,NA,NA,NA,NA,4050,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Praia das Maçãs,NA,H-2049/1487,Charcoal,NA,NA,NA,NA,4260,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Praia das Maçãs,NA,H-2048/1458,Charcoal,NA,NA,NA,NA,3650,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Penha Verde,NA,W-656,Charcoal,NA,NA,NA,NA,3420,200,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
-Catujal,NA,ICEN-843,Bone,NA,NA,NA,NA,3570,45,intcal20,NA,Bronze Age,NA,"Soares e Cabral, 1993"
-Olelas,"Tower 3, Layer 4",ICEN-878,Bone,NA,NA,NA,NA,4730,60,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
-Olelas,"Tower 3, Layer 3",ICEN-879,Bone,NA,NA,NA,NA,4400,45,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Olelas,"Tower 3, Layer 3",ICEN-880,Pecten maximus,NA,NA,NA,NA,4310,110,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Olelas,"Tower 3, wall",ICEN-939,Bone,NA,NA,NA,NA,4360,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Olelas,Filling of the wall corridor,ICEN-346,Bone,NA,NA,NA,NA,4350,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Olelas,Filling of the wall corridor,ICEN-347,Bone,NA,NA,NA,NA,4060,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-"Buraca dos Mouros, Bocas",NA,ETH-4498,Charcoal,NA,NA,NA,NA,4450,85,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
-Buraca Grande,Layer 8a,Gif-9940,Charcoal,NA,NA,NA,NA,7000,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Buraca Grande,Layer 7c,Sac-1461,Charcoal,NA,NA,NA,NA,6850,210,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Buraca Grande,Layer 7c,Sac-1459,Shell,NA,NA,NA,NA,6940,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Bocas,Layer 2,ICEN-899,Shell,NA,NA,NA,NA,7490,110,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Forno da Telha,Layer 2,ICEN-417,Shell,NA,NA,NA,NA,7360,90,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço da Arruda,Skeleton III,TO-360,Bone,Homo sapiens,NA,-17.7,11.2,6990,110,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Arruda,Skeleton A,TO-354,Bone,Homo sapiens,NA,-19,12.2,6970,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Arruda,Skeleton 42,TO-359,Bone,Homo sapiens,NA,-17.2,11.8,6960,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Arruda,Skeleton D,TO-355,Bone,Homo sapiens,NA,-18.9,10.3,6780,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Arruda,Skeleton N,TO-356,Bone,Homo sapiens,NA,-15.3,12.5,6360,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,Skeleton 22,TO-131,Bone,Homo sapiens,NA,-16.1,12.2,7240,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,Skeleton 29,TO-133,Bone,Homo sapiens,NA,-16.9,10.4,7200,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,Skeleton 24,TO-132,Bone,Homo sapiens,NA,-16.8,11.9,7180,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,Skeleton 41,TO-134,Bone,Homo sapiens,NA,-16.7,11.2,7160,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,Skeleton CT,TO-135,Bone,Homo sapiens,NA,-15.3,13.4,6810,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Arapouco,Middle lvel,Q-2492,Shell,NA,NA,NA,NA,7420,65,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço do Rebolador,NA,ICEN-277,Shell,NA,NA,NA,NA,7140,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço do Rebolador,NA,ICEN-278,Shell,NA,NA,NA,NA,7100,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Várzea da Mó,NA,ICEN-273,Shell,NA,NA,NA,NA,7110,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Poças de São Bento,Lower level,Q-2493,Shell,NA,NA,NA,NA,7040,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Poças de São Bento,Middle lvel,Q-2494,Charcoal,NA,NA,NA,NA,6780,65,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Poças de São Bento,Middle lvel,Q-2495,Shell,NA,NA,NA,NA,6850,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço do Pez,Middle lvel,Q-2497,Shell,NA,NA,NA,NA,6730,75,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Cabeço do Pez,Middle lvel,Q-2496,Shell,NA,NA,NA,NA,6430,65,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Amoreira,Level 2b,Q-(AM85B2b),Shell,NA,NA,NA,NA,6370,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Amoreira,Level 2a,Q-(AM85B2a),Charcoal,NA,NA,NA,NA,5990,75,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vale de Romeiras,Layer 2,ICEN-144,Bone,NA_fauna,NA,NA,NA,7130,110,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vale de Romeiras,Layer 2,ICEN-150,Shell,NA,NA,NA,NA,7390,80,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vale de Romeiras,Layer 2,ICEN-146,Shell,NA,NA,NA,NA,7350,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vale Pincel,"Levels 2/3, hearths",ICEN-724,Charcoal,NA,NA,NA,NA,6700,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vale Pincel,"Levels 2/3, hearths",ICEN-723,Charcoal,NA,NA,NA,NA,6540,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Samouqueira 1,Level 3,ICE-729,Shell,NA,NA,NA,NA,7520,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Samouqueira 1,Level 2,TO-130,Bone,Homo sapiens,H2,-15.3,16.5,6370,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Vidigal,Level 3,Ly-4695,Bone,NA_fauna,NA,NA,NA,6640,90,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Vidigal,Level 2,GX-14557,Bone,NA_fauna,NA,NA,NA,6030,180,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Medo Tojeiro,Level 4?,BM-2275R,Shell,NA,NA,NA,NA,6820,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,Level 30-35,ICEN-103,Shell,NA,NA,NA,NA,7310,80,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,Level 30-35,ICEN-110,Bone,NA_fauna,NA,NA,NA,6870,220,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,Level 20-30,ICEN-141,Bone,NA_fauna,NA,NA,NA,6180,110,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,NA,TO-806,Charcoal,NA,NA,NA,NA,7010,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,NA,TO-705,Charcoal,NA,NA,NA,NA,6840,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Fiais,NA,TO-706,Bone,NA_fauna,NA,NA,NA,6260,80,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
-Montes de Baixo,Layer 4,ICEN-720,Shell,NA,NA,NA,NA,7910,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Montes de Baixo,Layer 2,ICEN-718,Shell,NA,NA,NA,NA,7590,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
-Buraco da Pala,"Level IV, base",ICEN-935,Charcoal,NA,NA,NA,NA,5860,140,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Buraco da Pala,"Level IV, base",GrN-19104,Charcoal,NA,NA,NA,NA,5860,30,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Senhora das Lapas,Layer C,ICEN-805,Bone,Homo sapiens,NA,NA,NA,6100,70,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Pena d'Água,Layer Eb (base),ICEN-1146,Charcoal,NA,NA,NA,NA,6390,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Picoto,Surface,ICEN-736,Bone,Homo sapiens,NA,NA,NA,6000,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Casa da Moura,Level 1a,TO-953,Bone,Homo sapiens,NA,NA,NA,5990,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Cabeço do Porto Marinho,Neolithic hearth,SMU-2477,Charcoal,NA,NA,NA,NA,5710,155,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Pedreira de Salemas,NA,ICEN-351,Bone,Homo sapiens,NA,NA,NA,6020,120,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-São Pedro de Canaferrim,"EU-4, 69-73cm",ICEN-1151,Charcoal,NA,NA,NA,NA,6020,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-São Pedro de Canaferrim,"EU-4, 46-63cm",ICEN-1152,Charcoal,NA,NA,NA,NA,6070,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Cabeço do Pez,Upper level,Q-2499,Bone,NA_fauna,NA,NA,NA,5535,130,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
-Cabranosa,Neolithic hearth,Sac-1321,Shell,NA,NA,NA,NA,6930,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
-Padrão,Neolithic hearth,ICEN-873,Shell,NA,NA,NA,NA,6920,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
-Padrão,Neolithic hearth,ICEN-645,Shell,NA,NA,NA,NA,6800,50,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
-Cabeço da Amoreira,CAM-01-01,TO-10225,Bone,Homo sapiens,NA,-19.3,8.2,6550,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Amoreira,7,Beta-127450,Bone,Homo sapiens,NA,-16.5,NA,6850,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço da Amoreira,CAM-00-01,TO-11819-R,Bone,Homo sapiens,NA,-16.3,NA,7300,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço de Arruda,CA-00-01,TO-10217,Bone,Homo sapiens,NA,-18.1,10.5,6620,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço de Arruda,CA-00-02,TO-10216,Bone,Homo sapiens,NA,-17.9,10.6,7040,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço de Arruda,6,Beta-127451,Bone,Homo sapiens,NA,-19,NA,7550,100,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cova da Onça,NA,Beta-127448,Bone,Homo sapiens,NA,-17.2,NA,7140,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Moita do Sebastião,16,Beta-127449,Bone,Homo sapiens,NA,-16.8,NA,7120,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Cabeço das Amoreiras,Skeleton 5,Beta-125110,Bone,Homo sapiens,5,-20.8,NA,7230,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Aranpouco,Skeleton 2A,Sac-1560,Bone,Homo sapiens,2A,-16.9,NA,7200,130,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
-Quinta do Almaraz,"Quad. U 45/3, PI.11",ICEN-926,Bone,Homo sapiens,NA,-20.4,NA,2660,50,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
-Quinta do Almaraz,"Quad. U 45/3, PI.11",ICEN-914,Shell,Venerupis decussata,NA,0.15,NA,3020,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+terraza inferior)",Beta - 165548,Charcoal,NA,NA,NA,NA,NA,2920,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Trastejón,TR88/C2/ UE20,RCD-445,Charcoal,NA,NA,NA,NA,NA,2889,100,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-202,Wood,NA,NA,NA,NA,NA,2830,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-203,Wood,NA,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-206,Wood,NA,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-207,Wood,NA,NA,NA,NA,NA,2820,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-205,Wood,NA,NA,NA,NA,NA,2810,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Depósito de Huelva,alvado ponta de lança,CSIC-204,Wood,NA,NA,NA,NA,NA,2800,70,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 3,Tomb 27,Beta-262195,Bone,Homo sapiens,Burial 2,NA,NA,NA,3080,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casarão da Mesquita 4,EN43,Sac-2390,Bone,Homo sapiens,NA,NA,NA,NA,3120,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Horta do Panéque,UE107,Sac-2334,Bone,Homo sapiens,NA,NA,NA,NA,3030,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Horta do Jacinto,"Est. 1, UE 106",Sac-2632,Bone,Homo sapiens,NA,NA,NA,NA,3220,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Corça 2,Survey 1. UE 103-2,Sac-2491,Bone,Homo sapiens,NA,NA,NA,NA,2950,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Outeiro Alto 2,UE 4804,Sac-2672,Bone,Homo sapiens,Pit 46,NA,NA,NA,3470,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Outeiro Alto 2,UE 5307,Sac-2671,Bone,Homo sapiens,Pit 53,NA,NA,NA,3400,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte do Gato de Cima,UE 104,Sac-2573,Bone,Homo sapiens,Pit 1,NA,NA,NA,3260,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte da Cabida 3,UE 848,Sac-2317,Charcoal,NA,NA,NA,NA,NA,2690,200,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte da Cabida 3,UE 888,Sac-2368,Bone,Sus sp.,NA,NA,NA,NA,3220,90,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte da Cabida 3,UE 966,Sac-2321,Bone,NA_fauna,NA,NA,NA,NA,3440,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Monte da Cabida 3,UE 833,Sac-2326,Bone,NA_fauna,NA,NA,NA,NA,3410,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,Est. 19,Sac-2635,Bone,NA_fauna,NA,NA,NA,NA,3280,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,"Est 12, UE 1214",Sac-2328,Wood,Quercus suber,NA,NA,NA,NA,3210,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,"Est 12, UE 1207",Sac-2369,Fauna,NA_fauna,NA,NA,NA,NA,2790,180,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,"Est 9, UE 1032",Sac-2331,Wood,Quercus suber,NA,NA,NA,NA,3040,45,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,"Est 9, UE 1014",Sac-2330,Charcoal,NA,NA,NA,NA,NA,3000,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedreira de Trigaches 2,"Est 9, UE 1028",Sac-2332,Cereal,Hordeum vulgare,NA,NA,NA,NA,2980,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pontes de Marchil,NA,ICEN-648,Shell,Venerupis decussata,NA,NA,NA,NA,3350,45,marine20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Chinflón,NA,BM-1529,Charcoal,NA,NA,NA,NA,NA,3320,130,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Chinflón,NA,BM-1600,Charcoal,NA,NA,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Chinflón,NA,BM-1601,Charcoal,NA,NA,NA,NA,NA,2830,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Chinflón,NA,BM-1526,Charcoal,NA,NA,NA,NA,NA,2650,60,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Corta Lago,NA,NA,Charcoal,NA,NA,NA,NA,NA,2640,140,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+"Huelva, Plaza de Monjas",NA,GrN-29511,Bone,NA_fauna,NA,NA,NA,NA,2745,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+"Huelva, Plaza de Monjas",NA,GrN-29512,Bone,NA_fauna,NA,NA,NA,NA,2775,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+"Huelva, Plaza de Monjas",NA,GrN-29513,Bone,NA_fauna,NA,NA,NA,NA,2740,25,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Alcalar 7,Hearth 5,Beta-180982,Charcoal,NA,NA,NA,NA,NA,3280,40,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Anta das Castelhanas,NA,OxA-5432,Bone,Homo sapiens,NA,NA,NA,NA,3220,65,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Casullo,NA,CNA-345,Charcoal,NA,NA,NA,NA,NA,2890,50,intcal20,NA,Bronze Age,SW Bronze Age,Mataloto et al. 2013
+Pedras Grandes,NA,Beta-205946,Bone,Homo sapiens,"U58,PG(04)H6-28",NA,19.9,8.4,4590,40,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
+Pedras Grandes,NA,Beta-234136,Bone,Homo sapiens,MG638.0005.2,NA,19.6,8.6,4530,40,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
+Pedras Grandes,NA,OxA-35898,Bone,Homo sapiens,MG638.0005.3+0006.16,NA,19.5,8.4,4796,30,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
+Pedras Grandes,NA,OxA-35899,Bone,Homo sapiens,MG638.0007.1-2,NA,19.2,8.6,4671,29,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
+Pedras Grandes,NA,OxA-36001,Bone,Homo sapiens,MG638.0005.1,NA,19.1,9.1,4812,28,intcal20,NA,Neolithic,Megalithism ,Silva et al. 2021
+Anta da Bola de Cera,NA,ICEN-66,Bone,NA,NA,NA,NA,NA,4360,50,intcal20,NA,Chalcolithic,Megalithism ,"Soares e Cabral, 1993"
+Sala n° 1,Level 6,ICEN-444,Bone,NA,NA,NA,NA,NA,4490,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 5,ICEN-445,Bone,NA,NA,NA,NA,NA,4490,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 4,ICEN-447,Bone,NA,NA,NA,NA,NA,4490,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Sala n° 1,Level 3,ICEN-448,Bone,NA,NA,NA,NA,NA,4140,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+S. Brás 1,Context with metallurgy,ICEN-44,Charcoal,NA,NA,NA,NA,NA,4410,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+S. Brás 1,Context with metallurgy,ICEN-43,Charcoal,NA,NA,NA,NA,NA,4480,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-236,Charcoal,NA,NA,NA,NA,NA,4550,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-115,Charcoal,NA,NA,NA,NA,NA,4340,35,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-144,Charcoal,NA,NA,NA,NA,NA,4390,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-172,Charcoal,NA,NA,NA,NA,NA,4540,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-116,Charcoal,NA,NA,NA,NA,NA,4400,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",UGRA-234,Charcoal,NA,NA,NA,NA,NA,4280,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-113,Charcoal,NA,NA,NA,NA,NA,4220,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 1, without metallurgy",ICEN-117,Charcoal,NA,NA,NA,NA,NA,4180,30,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Monte da Tumba,"Phase 2, with metallurgy",ICEN-131,Charcoal,NA,NA,NA,NA,NA,4310,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-131,Charcoal,NA,NA,NA,NA,NA,4390,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-90,Charcoal,NA,NA,NA,NA,NA,4310,170,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-91,Charcoal,NA,NA,NA,NA,NA,4100,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-75,Charcoal,NA,NA,NA,NA,NA,3990,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Beginning of the settlement,UGRA-77,Charcoal,NA,NA,NA,NA,NA,3960,180,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-76,Burned seeds,NA,NA,NA,NA,NA,3920,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3230,Burned seeds,NA,NA,NA,NA,NA,4400,140,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,Ly-3229,Burned seeds,NA,NA,NA,NA,NA,4250,110,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-86,Charcoal,NA,NA,NA,NA,NA,3910,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Cerro do Castelo de Santa Justa,Settlement in plain activity,UGRA-85,Charcoal,NA,NA,NA,NA,NA,3890,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-55",ICEN-56,Bone,NA,NA,NA,NA,NA,4300,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 3, pre-ceramic, same sample as ICEN-56",ICEN-55,Bone,NA,NA,NA,NA,NA,4290,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 1, ceramic, same sample as ICEN-6-",ICEN-61,Bone,NA,NA,NA,NA,NA,4230,60,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Porto Torrão,"Layer 1, ceramic, same sample as ICEN-61",ICEN-60,Bone,NA,NA,NA,NA,NA,4200,70,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-609,Bone,NA,NA,NA,NA,NA,4260,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-608,Bone,NA,NA,NA,NA,NA,4120,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-611,Bone,NA,NA,NA,NA,NA,4010,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Povoado do Escoural,NA,ICEN-610,Bone,NA,NA,NA,NA,NA,3940,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+ETAR (Vila Nova de Milfontes),NA,ICEN-726,Shell,Monodonta sp.,NA,NA,NA,NA,4120,60,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Tholos de A-dos-Tassos,NA,Sa-199,Charcoal,NA,NA,NA,NA,NA,3320,200,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Valada do Mato,UE 7,Beta-153914,Charcoal,NA,NA,NA,NA,NA,6030,50,intcal20,NA,Neolithic,NA,"Diniz, 2001"
+Comporta,NA,CSIC-648,Shell,Ostrea sp.,NA,NA,NA,NA,4930,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
+Comporta,NA,CSIC-652,Shell,Ruditapes decussatus,NA,NA,NA,NA,4720,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
+Comporta,NA,CSIC-649,Shell,Ruditapes decussatus,NA,NA,NA,NA,4580,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
+Comporta,NA,CSIC-653,Shell,Ruditapes decussatus,NA,NA,NA,NA,4270,50,marine20,NA,Neolithic,Shellmiddens,"Soares e Cabral, 1993"
+Lapa do Fumo,NA,KN-361,Charcoal,NA,NA,NA,NA,NA,5040,160,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Lapa do Fumo,NA,ICEN-240,Bone,NA,NA,NA,NA,NA,4420,45,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Cova das Lapas,NA,ICEN-463,Bone,NA,NA,NA,NA,NA,4550,60,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-738,Bone,NA,NA,NA,NA,NA,4630,45,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-312,Charcoal,NA,NA,NA,NA,NA,4530,100,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-313,Charcoal,NA,NA,NA,NA,NA,4520,130,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-136,Charcoal,NA,NA,NA,NA,NA,4520,70,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-674,Charcoal,NA,NA,NA,NA,NA,4370,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-91,Bone,NA,NA,NA,NA,NA,4130,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-673,Charcoal,NA,NA,NA,NA,NA,4130,100,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-675,Charcoal,NA,NA,NA,NA,NA,4100,90,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,Ly-4205,Charcoal,NA,NA,NA,NA,NA,4030,120,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-92,Charcoal,NA,NA,NA,NA,NA,4120,80,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-89,Bone,NA,NA,NA,NA,NA,4200,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-95,Shell,Venus sp.,NA,NA,NA,NA,3990,70,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-102,Shell,Patella sp.,NA,NA,NA,NA,3970,70,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-737,Bone,NA,NA,NA,NA,NA,3920,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-314,Charcoal,NA,NA,NA,NA,NA,3770,130,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Leceia,NA,ICEN-315,Charcoal,NA,NA,NA,NA,NA,3730,170,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase III 2a-3c,GrN-7008,Bone,NA,NA,NA,NA,NA,3980,35,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 2a,GrN-6671,Charcoal,NA,NA,NA,NA,NA,4170,55,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 3a,GrN-7002,Charcoal,NA,NA,NA,NA,NA,4050,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 3b,GrN-7003,Charcoal,NA,NA,NA,NA,NA,4055,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 3b,GrN-7004,Charcoal,NA,NA,NA,NA,NA,3995,40,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 3c,GrN-7005,Charcoal,NA,NA,NA,NA,NA,4055,40,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 3c/4a,GrN-6670,Charcoal,NA,NA,NA,NA,NA,4150,105,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 4b,GrN-6669,Charcoal,NA,NA,NA,NA,NA,4025,95,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 4b,GrN-7007C,Charcoal,NA,NA,NA,NA,NA,3950,65,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase Vx 4C,GrN-6668,Charcoal,NA,NA,NA,NA,NA,3625,65,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Zambujal,Phase III 2a.,GrN-709,Charcoal,NA,NA,NA,NA,NA,4200,40,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Alto do Dafundo,NA,ICEN-466,Shell,Patella sp.,NA,NA,NA,NA,4300,60,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Pragança,NA,ICEN-573,Bone,NA,NA,NA,NA,NA,4120,50,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Pragança,NA,ICEN-572,Bone,NA,NA,NA,NA,NA,4050,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Praia das Maçãs,NA,H-2049/1487,Charcoal,NA,NA,NA,NA,NA,4260,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Praia das Maçãs,NA,H-2048/1458,Charcoal,NA,NA,NA,NA,NA,3650,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Penha Verde,NA,W-656,Charcoal,NA,NA,NA,NA,NA,3420,200,intcal20,NA,Chalcolithic,Bell Beaker,"Soares e Cabral, 1993"
+Catujal,NA,ICEN-843,Bone,NA,NA,NA,NA,NA,3570,45,intcal20,NA,Bronze Age,NA,"Soares e Cabral, 1993"
+Olelas,"Tower 3, Layer 4",ICEN-878,Bone,NA,NA,NA,NA,NA,4730,60,intcal20,NA,Neolithic,NA,"Soares e Cabral, 1993"
+Olelas,"Tower 3, Layer 3",ICEN-879,Bone,NA,NA,NA,NA,NA,4400,45,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Olelas,"Tower 3, Layer 3",ICEN-880,Pecten maximus,NA,NA,NA,NA,NA,4310,110,marine20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Olelas,"Tower 3, wall",ICEN-939,Bone,NA,NA,NA,NA,NA,4360,60,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Olelas,Filling of the wall corridor,ICEN-346,Bone,NA,NA,NA,NA,NA,4350,150,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Olelas,Filling of the wall corridor,ICEN-347,Bone,NA,NA,NA,NA,NA,4060,70,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+"Buraca dos Mouros, Bocas",NA,ETH-4498,Charcoal,NA,NA,NA,NA,NA,4450,85,intcal20,NA,Chalcolithic,NA,"Soares e Cabral, 1993"
+Buraca Grande,Layer 8a,Gif-9940,Charcoal,NA,NA,NA,NA,NA,7000,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Buraca Grande,Layer 7c,Sac-1461,Charcoal,NA,NA,NA,NA,NA,6850,210,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Buraca Grande,Layer 7c,Sac-1459,Shell,NA,NA,NA,NA,NA,6940,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Bocas,Layer 2,ICEN-899,Shell,NA,NA,NA,NA,NA,7490,110,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Forno da Telha,Layer 2,ICEN-417,Shell,NA,NA,NA,NA,NA,7360,90,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço da Arruda,Skeleton III,TO-360,Bone,Homo sapiens,NA,NA,-17.7,11.2,6990,110,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton A,TO-354,Bone,Homo sapiens,NA,NA,-19,12.2,6970,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton 42,TO-359,Bone,Homo sapiens,NA,NA,-17.2,11.8,6960,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton D,TO-355,Bone,Homo sapiens,NA,NA,-18.9,10.3,6780,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Arruda,Skeleton N,TO-356,Bone,Homo sapiens,NA,NA,-15.3,12.5,6360,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 22,TO-131,Bone,Homo sapiens,NA,NA,-16.1,12.2,7240,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 29,TO-133,Bone,Homo sapiens,NA,NA,-16.9,10.4,7200,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 24,TO-132,Bone,Homo sapiens,NA,NA,-16.8,11.9,7180,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton 41,TO-134,Bone,Homo sapiens,NA,NA,-16.7,11.2,7160,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,Skeleton CT,TO-135,Bone,Homo sapiens,NA,NA,-15.3,13.4,6810,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Arapouco,Middle lvel,Q-2492,Shell,NA,NA,NA,NA,NA,7420,65,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço do Rebolador,NA,ICEN-277,Shell,NA,NA,NA,NA,NA,7140,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço do Rebolador,NA,ICEN-278,Shell,NA,NA,NA,NA,NA,7100,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Várzea da Mó,NA,ICEN-273,Shell,NA,NA,NA,NA,NA,7110,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Poças de São Bento,Lower level,Q-2493,Shell,NA,NA,NA,NA,NA,7040,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Poças de São Bento,Middle lvel,Q-2494,Charcoal,NA,NA,NA,NA,NA,6780,65,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Poças de São Bento,Middle lvel,Q-2495,Shell,NA,NA,NA,NA,NA,6850,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço do Pez,Middle lvel,Q-2497,Shell,NA,NA,NA,NA,NA,6730,75,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Cabeço do Pez,Middle lvel,Q-2496,Shell,NA,NA,NA,NA,NA,6430,65,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Amoreira,Level 2b,Q-(AM85B2b),Shell,NA,NA,NA,NA,NA,6370,70,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Amoreira,Level 2a,Q-(AM85B2a),Charcoal,NA,NA,NA,NA,NA,5990,75,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vale de Romeiras,Layer 2,ICEN-144,Bone,NA_fauna,NA,NA,NA,NA,7130,110,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vale de Romeiras,Layer 2,ICEN-150,Shell,NA,NA,NA,NA,NA,7390,80,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vale de Romeiras,Layer 2,ICEN-146,Shell,NA,NA,NA,NA,NA,7350,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vale Pincel,"Levels 2/3, hearths",ICEN-724,Charcoal,NA,NA,NA,NA,NA,6700,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vale Pincel,"Levels 2/3, hearths",ICEN-723,Charcoal,NA,NA,NA,NA,NA,6540,60,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Samouqueira 1,Level 3,ICE-729,Shell,NA,NA,NA,NA,NA,7520,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Samouqueira 1,Level 2,TO-130,Bone,Homo sapiens,H2,NA,-15.3,16.5,6370,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Vidigal,Level 3,Ly-4695,Bone,NA_fauna,NA,NA,NA,NA,6640,90,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Vidigal,Level 2,GX-14557,Bone,NA_fauna,NA,NA,NA,NA,6030,180,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Medo Tojeiro,Level 4?,BM-2275R,Shell,NA,NA,NA,NA,NA,6820,140,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,Level 30-35,ICEN-103,Shell,NA,NA,NA,NA,NA,7310,80,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,Level 30-35,ICEN-110,Bone,NA_fauna,NA,NA,NA,NA,6870,220,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,Level 20-30,ICEN-141,Bone,NA_fauna,NA,NA,NA,NA,6180,110,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,NA,TO-806,Charcoal,NA,NA,NA,NA,NA,7010,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,NA,TO-705,Charcoal,NA,NA,NA,NA,NA,6840,70,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Fiais,NA,TO-706,Bone,NA_fauna,NA,NA,NA,NA,6260,80,intcal20,NA,Mesolithic,NA,"Zilhão, 2000"
+Montes de Baixo,Layer 4,ICEN-720,Shell,NA,NA,NA,NA,NA,7910,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Montes de Baixo,Layer 2,ICEN-718,Shell,NA,NA,NA,NA,NA,7590,60,marine20,NA,Mesolithic,NA,"Zilhão, 2000"
+Buraco da Pala,"Level IV, base",ICEN-935,Charcoal,NA,NA,NA,NA,NA,5860,140,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Buraco da Pala,"Level IV, base",GrN-19104,Charcoal,NA,NA,NA,NA,NA,5860,30,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Senhora das Lapas,Layer C,ICEN-805,Bone,Homo sapiens,NA,NA,NA,NA,6100,70,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Pena d'Água,Layer Eb (base),ICEN-1146,Charcoal,NA,NA,NA,NA,NA,6390,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Picoto,Surface,ICEN-736,Bone,Homo sapiens,NA,NA,NA,NA,6000,150,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Casa da Moura,Level 1a,TO-953,Bone,Homo sapiens,NA,NA,NA,NA,5990,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabeço do Porto Marinho,Neolithic hearth,SMU-2477,Charcoal,NA,NA,NA,NA,NA,5710,155,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Pedreira de Salemas,NA,ICEN-351,Bone,Homo sapiens,NA,NA,NA,NA,6020,120,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+São Pedro de Canaferrim,"EU-4, 69-73cm",ICEN-1151,Charcoal,NA,NA,NA,NA,NA,6020,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+São Pedro de Canaferrim,"EU-4, 46-63cm",ICEN-1152,Charcoal,NA,NA,NA,NA,NA,6070,60,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabeço do Pez,Upper level,Q-2499,Bone,NA_fauna,NA,NA,NA,NA,5535,130,intcal20,NA,Neolithic,NA,"Zilhão, 2000"
+Cabranosa,Neolithic hearth,Sac-1321,Shell,NA,NA,NA,NA,NA,6930,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Padrão,Neolithic hearth,ICEN-873,Shell,NA,NA,NA,NA,NA,6920,60,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Padrão,Neolithic hearth,ICEN-645,Shell,NA,NA,NA,NA,NA,6800,50,marine20,NA,Neolithic,Cardial,"Zilhão, 2000"
+Cabeço da Amoreira,CAM-01-01,TO-10225,Bone,Homo sapiens,NA,NA,-19.3,8.2,6550,70,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Amoreira,7,Beta-127450,Bone,Homo sapiens,NA,NA,-16.5,NA,6850,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço da Amoreira,CAM-00-01,TO-11819-R,Bone,Homo sapiens,NA,NA,-16.3,NA,7300,80,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,CA-00-01,TO-10217,Bone,Homo sapiens,NA,NA,-18.1,10.5,6620,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,CA-00-02,TO-10216,Bone,Homo sapiens,NA,NA,-17.9,10.6,7040,60,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço de Arruda,6,Beta-127451,Bone,Homo sapiens,NA,NA,-19,NA,7550,100,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cova da Onça,NA,Beta-127448,Bone,Homo sapiens,NA,NA,-17.2,NA,7140,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Moita do Sebastião,16,Beta-127449,Bone,Homo sapiens,NA,NA,-16.8,NA,7120,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Cabeço das Amoreiras,Skeleton 5,Beta-125110,Bone,Homo sapiens,5,NA,-20.8,NA,7230,40,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Aranpouco,Skeleton 2A,Sac-1560,Bone,Homo sapiens,2A,NA,-16.9,NA,7200,130,intcal20,NA,Mesolithic,Shellmiddens,Meiklejohn et al. 2009
+Quinta do Almaraz,"Quad. U 45/3, PI.11",ICEN-926,Bone,NA,NA,NA,-20.4,NA,2660,50,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.11. Internal fraction of the same shell as dated in ICEN-913.",ICEN-914,Shell,Venerupis decussata,NA,ICEN-913,0.15,NA,3020,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.11. Intermediate fraction of the same shell as dated in ICEN-914",ICEN-913,Shell,Venerupis decussata,NA,ICEN-914,0.25,NA,2990,50,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.12.",ICEN-927,Bone,NA,NA,NA,-20.03,NA,2570,60,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.12. Intermediate fraction of the same shell as dated in ICEN-916",ICEN-915,Shell,Cerastoderma edule,NA,ICEN-916,0.68,NA,3020,50,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.12. Internal fraction of the same shell as dated in ICEN-915",ICEN-916,Shell,Cerastoderma edule,NA,ICEN-915,0.82,NA,2970,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.12. Intermediate fraction of the same shell as dated in ICEN-918",ICEN-917,Shell,Venerupis decussata,NA,ICEN-918,0.09,NA,3110,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.12. Internal fraction of the same shell as dated in ICEN-917",ICEN-918,Shell,Venerupis decussata,NA,ICEN-917,0.29,NA,3130,60,marine20,NA,NA,NA,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.6. ",ICEN-925,Bone,NA,NA,NA,-20.38,NA,2400,25,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.6. Intermediate fraction of the same shell as dated in ICEN-912",ICEN-911,Shell,Mytilus edulis,NA,ICEN-912,-0.3,NA,2760,50,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,"Quad. U 45/3, PI.6. Internal fraction of the same shell as dated in ICEN-911",ICEN-912,Shell,Mytilus edulis,NA,ICEN-911,0.47,NA,2820,45,marine20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016
+Quinta do Almaraz,Pit ditch E S6,SAC-1363,Bone,NA,NA,NA,-21.97,NA,6090,50,intcal20,NA,NA,NA,Soares et al. 2016
+Quinta do Almaraz,Pit ditch E S6,SAC-1656,Bone,NA,NA,NA,-20.8,NA,2710,45,intcal20,NA,Iron Age,Orientalysing Iron Age,Soares et al. 2016

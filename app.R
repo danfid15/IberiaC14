@@ -300,7 +300,7 @@ server <- function(input, output, session) {
       scale_fill_viridis_d()+
       theme_classic()+
       theme(legend.title = element_text(face = "bold"))+
-      labs(x= "Medial cal.BC",y = "Period")
+      labs(x= "Median cal.BC",y = "Period")
   }
   
   output$boxplot <- renderPlot({
